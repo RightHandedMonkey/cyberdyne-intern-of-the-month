@@ -16,13 +16,202 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
-      <item>
+    <item>
+      <title>GLM-5.3 🤖, Stripe OpenRouter deal 💰, AI agent consensus 🤝</title>
+      <pubDate>Tue, 18 Aug 2026 06:25:07 +0000</pubDate>
+      <description>[Quality: Good] The script covers major AI acquisitions including Stripe buying OpenRouter and SpaceX acquiring Cursor, massive infrastructure moves from Nvidia and OpenAI, new model releases like GLM-5.3 and Qwen 3.8, and key research breakthroughs in agent architectures and transformer design.</description>
+      <itunes:summary>[Quality: Good] The script covers major AI acquisitions including Stripe buying OpenRouter and SpaceX acquiring Cursor, massive infrastructure moves from Nvidia and OpenAI, new model releases like GLM-5.3 and Qwen 3.8, and key research breakthroughs in agent architectures and transformer design.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260818_tldr_3.mp3" length="5912832" type="audio/mpeg"/>
+      <guid isPermaLink="false">306d4eaa4355d841c7e5507552ef7529</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+    <item>
+      <title>Cursor Origin 👨‍💻, Anthropic $65B revenue 💰, deadline dividend scaling 📈</title>
+      <pubDate>Wed, 19 Aug 2026 06:15:27 +0000</pubDate>
+      <description>[Quality: Good] The script covers Cursor&#x27;s rollout of its Origin code hosting platform, Anthropic&#x27;s massive annualized revenue growth, Groq&#x27;s $350 million funding round, and a new study highlighting benchmark inflation in compound AI pipelines.</description>
+      <itunes:summary>[Quality: Good] The script covers Cursor&#x27;s rollout of its Origin code hosting platform, Anthropic&#x27;s massive annualized revenue growth, Groq&#x27;s $350 million funding round, and a new study highlighting benchmark inflation in compound AI pipelines.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260819_tldr_3.mp3" length="1800192" type="audio/mpeg"/>
+      <guid isPermaLink="false">881bb98dd7fcc56d07cf9de1eb0f1997</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+    <item>
+      <title>ChatGPT Apple Messages 💬, Anthropic’s meeting recorder 💼, Mistral Agentic Search 🔍</title>
+      <pubDate>Sat, 22 Aug 2026 06:15:32 +0000</pubDate>
+      <description>[Quality: Good] This digest covers Anthropic&#x27;s Project Parka meeting assistant, OpenAI&#x27;s Mac Messages integration, Slack Code for collaborative development with AI agents, Mistral&#x27;s Agentic Search, and Nvidia&#x27;s multi-billion-dollar deal with Poolside AI.</description>
+      <itunes:summary>[Quality: Good] This digest covers Anthropic&#x27;s Project Parka meeting assistant, OpenAI&#x27;s Mac Messages integration, Slack Code for collaborative development with AI agents, Mistral&#x27;s Agentic Search, and Nvidia&#x27;s multi-billion-dollar deal with Poolside AI.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260822_tldr_3.mp3" length="1751424" type="audio/mpeg"/>
+      <guid isPermaLink="false">bf36df279a8f5f6471c7a404d8e3d16f</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+    <item>
+      <title>Muse Video leaks 📹, Ramp Router launch 🔀, why Stripe bought OpenRouter 💰</title>
+      <pubDate>Mon, 24 Aug 2026 06:13:52 +0000</pubDate>
+      <description>[Quality: Good] This update covers Meta&#x27;s closed beta release of Muse Video, Stripe&#x27;s acquisition of OpenRouter, Cursor&#x27;s new VM-isolated cloud agents, and Replit&#x27;s GPT-5.6-powered Free Mode.</description>
+      <itunes:summary>[Quality: Good] This update covers Meta&#x27;s closed beta release of Muse Video, Stripe&#x27;s acquisition of OpenRouter, Cursor&#x27;s new VM-isolated cloud agents, and Replit&#x27;s GPT-5.6-powered Free Mode.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260824_tldr_2.mp3" length="1788288" type="audio/mpeg"/>
+      <guid isPermaLink="false">ef91813eeea72694193cc00a228f1b17</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+    <item>
+      <title>GLM-5.3 API 🤖, Cerebras’ new chip ⚡, OpenAI cyber slowdown 🚨</title>
+      <pubDate>Mon, 24 Aug 2026 06:15:39 +0000</pubDate>
+      <description>[Quality: Good] This digest covers Z.AI&#x27;s GLM-5.3 API launch, Cerebras&#x27;s unveiling of the CS-4 AI supercomputer, OpenAI&#x27;s pause on certain RL training due to cybersecurity risk signals, and Etched&#x27;s $700M funding round.</description>
+      <itunes:summary>[Quality: Good] This digest covers Z.AI&#x27;s GLM-5.3 API launch, Cerebras&#x27;s unveiling of the CS-4 AI supercomputer, OpenAI&#x27;s pause on certain RL training due to cybersecurity risk signals, and Etched&#x27;s $700M funding round.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260824_tldr_3.mp3" length="1830144" type="audio/mpeg"/>
+      <guid isPermaLink="false">c504a020aa952fff0a5ffc9cfaad5efc</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+    <item>
+      <title>DeepSeek Flash Vision 👀, Claude Mythos security 🛡️, inside Grok Bot 🤖</title>
+      <pubDate>Tue, 25 Aug 2026 06:17:02 +0000</pubDate>
+      <description>[Quality: Good] The script highlights Hugging Face&#x27;s reported $13 billion valuation exploration and DeepSeek&#x27;s new multimodal Flash Vision model. It also covers Anthropic&#x27;s defensive Claude Mythos 5 rollout for code security and Grok Bot&#x27;s autonomous agent integration into tools like Cursor.</description>
+      <itunes:summary>[Quality: Good] The script highlights Hugging Face&#x27;s reported $13 billion valuation exploration and DeepSeek&#x27;s new multimodal Flash Vision model. It also covers Anthropic&#x27;s defensive Claude Mythos 5 rollout for code security and Grok Bot&#x27;s autonomous agent integration into tools like Cursor.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260825_tldr_3.mp3" length="1742976" type="audio/mpeg"/>
+      <guid isPermaLink="false">028bb47cb1820fa4fa6fce042358f208</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+    <item>
+      <title>Nvidia’s Groq chip ⚡, frontier economics 💰, Ox Alpha mystery 🕵️</title>
+      <pubDate>Wed, 26 Aug 2026 06:16:23 +0000</pubDate>
+      <description>[Quality: Good] This digest covers major AI and hardware updates, including the release of Groq 3 LPX inference accelerators, Nvidia expanding CUDA support to RISC-V, the mysterious high-throughput Ox Alpha model, Anthropic hiring Amir Salek to design custom silicon, and Alibaba launching Wan 3.0 for video generation.</description>
+      <itunes:summary>[Quality: Good] This digest covers major AI and hardware updates, including the release of Groq 3 LPX inference accelerators, Nvidia expanding CUDA support to RISC-V, the mysterious high-throughput Ox Alpha model, Anthropic hiring Amir Salek to design custom silicon, and Alibaba launching Wan 3.0 for video generation.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260826_tldr_3.mp3" length="1765248" type="audio/mpeg"/>
+      <guid isPermaLink="false">346c11baa1f5d917a1baddbe56fca005</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+    <item>
+      <title>OpenAI Jalapeño 🌶️, Perplexity Portable Computer  💻, Claude combines memory 🧠</title>
+      <pubDate>Thu, 27 Aug 2026 06:16:18 +0000</pubDate>
+      <description>[Quality: Good] This digest covers major AI hardware and agent updates, including OpenAI&#x27;s custom Jalapeño inference accelerator, Perplexity and Nvidia&#x27;s local agent execution partnership, Apple&#x27;s M6 and M5 Ultra chips, and Anthropic&#x27;s unified memory system across Claude Chat and Cowork.</description>
+      <itunes:summary>[Quality: Good] This digest covers major AI hardware and agent updates, including OpenAI&#x27;s custom Jalapeño inference accelerator, Perplexity and Nvidia&#x27;s local agent execution partnership, Apple&#x27;s M6 and M5 Ultra chips, and Anthropic&#x27;s unified memory system across Claude Chat and Cowork.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260827_tldr_3.mp3" length="1682688" type="audio/mpeg"/>
+      <guid isPermaLink="false">ba8a1a30d66ed1c7e411f658dc1087f8</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+    <item>
+      <title>GLM-5.3 Flash ⚡, Claudeforce 🤝, NVIDIA revenue surge 📈</title>
+      <pubDate>Fri, 28 Aug 2026 06:15:24 +0000</pubDate>
+      <description>[Quality: Good] The script covers the unmasking of the efficient GLM-5.3-Flash model, surging AI hardware revenue and Anthropic&#x27;s multi-billion dollar chip deal, and new enterprise agent capabilities from Salesforce&#x27;s Claudeforce and OpenAI&#x27;s WebMCP support.</description>
+      <itunes:summary>[Quality: Good] The script covers the unmasking of the efficient GLM-5.3-Flash model, surging AI hardware revenue and Anthropic&#x27;s multi-billion dollar chip deal, and new enterprise agent capabilities from Salesforce&#x27;s Claudeforce and OpenAI&#x27;s WebMCP support.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260828_tldr_3.mp3" length="1906176" type="audio/mpeg"/>
+      <guid isPermaLink="false">c83a2c1886c3b85d755c901c3deab704</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+    <item>
+      <title>Gemini Omni 1.1 🎬, Cohere Parse 📄, Codex persistent mode 👨‍💻</title>
+      <pubDate>Sat, 29 Aug 2026 06:15:08 +0000</pubDate>
+      <description>[Quality: Good] The script covers Google&#x27;s Gemini Omni 1.1 Flash video generation controls, Anthropic&#x27;s Model Hardware Standard for physical automation, Cohere&#x27;s Parse document vision model, and rapid video generation from Fal alongside Nvidia&#x27;s revenue guidance.</description>
+      <itunes:summary>[Quality: Good] The script covers Google&#x27;s Gemini Omni 1.1 Flash video generation controls, Anthropic&#x27;s Model Hardware Standard for physical automation, Cohere&#x27;s Parse document vision model, and rapid video generation from Fal alongside Nvidia&#x27;s revenue guidance.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260829_tldr_3.mp3" length="1705728" type="audio/mpeg"/>
+      <guid isPermaLink="false">4cfd6aab785eac5e6f6f3fa8830a7588</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+    <item>
+      <title>OpenAI Cursor split 💔, self-improving AI 🧠, GPT-6 Astra 🚀</title>
+      <pubDate>Tue, 01 Sep 2026 06:14:53 +0000</pubDate>
+      <description>[Quality: Good] The episode highlights OpenAI ending its partnership with Cursor after a SpaceX acquisition, Anthropic&#x27;s research on self-improving AI safety, and Nvidia&#x27;s Vera Rubin architecture focusing on data-orchestration CPUs.</description>
+      <itunes:summary>[Quality: Good] The episode highlights OpenAI ending its partnership with Cursor after a SpaceX acquisition, Anthropic&#x27;s research on self-improving AI safety, and Nvidia&#x27;s Vera Rubin architecture focusing on data-orchestration CPUs.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260901_tldr_3.mp3" length="1557120" type="audio/mpeg"/>
+      <guid isPermaLink="false">2ac4e152905c2c91cbea93c1911f5ab8</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+    <item>
+      <title>Muse Code 👨‍💻, Runway Solaris ☀️, OpenClaw 2.0 🤖</title>
+      <pubDate>Wed, 02 Sep 2026 06:14:46 +0000</pubDate>
+      <description>[Quality: Good] The script covers major tech updates including Meta&#x27;s Muse Code CLI agent, Runway&#x27;s Solaris UI world model, OpenAI&#x27;s outcome-based pricing trials, Anthropic&#x27;s copyright lawsuit allegations, and the release of OpenClaw 2.0.</description>
+      <itunes:summary>[Quality: Good] The script covers major tech updates including Meta&#x27;s Muse Code CLI agent, Runway&#x27;s Solaris UI world model, OpenAI&#x27;s outcome-based pricing trials, Anthropic&#x27;s copyright lawsuit allegations, and the release of OpenClaw 2.0.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260902_tldr_3.mp3" length="1523328" type="audio/mpeg"/>
+      <guid isPermaLink="false">ada8ac4526b8a3e6c561a267199ddb50</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+    <item>
+      <title>Fable 5.1 🧠, World Labs Atlas 🌍, Cognition $47B 💰</title>
+      <pubDate>Thu, 03 Sep 2026 06:16:05 +0000</pubDate>
+      <description>[Quality: Good] The briefing details Anthropic&#x27;s Claude 5.1 model releases, Cognition&#x27;s $1B funding round, and World Labs&#x27; Atlas spatial model. It also covers OpenAI&#x27;s autonomous cybersecurity model Astra and a cost-effective 44% ARC-AGI benchmark result achieved on consumer hardware.</description>
+      <itunes:summary>[Quality: Good] The briefing details Anthropic&#x27;s Claude 5.1 model releases, Cognition&#x27;s $1B funding round, and World Labs&#x27; Atlas spatial model. It also covers OpenAI&#x27;s autonomous cybersecurity model Astra and a cost-effective 44% ARC-AGI benchmark result achieved on consumer hardware.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260903_tldr_3.mp3" length="1694976" type="audio/mpeg"/>
+      <guid isPermaLink="false">2fd54db32facb437b5a21ea0a15dac37</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+    <item>
+      <title>Muse Spark 1.3 ✨, Gemini 3.8 Flash ⚡, intelligence vs cost 📊</title>
+      <pubDate>Fri, 04 Sep 2026 06:14:46 +0000</pubDate>
+      <description>[Quality: Good] Meta announced Muse Spark 1.3 featuring computer control capabilities, while Google released Gemini 3.8 Flash and a dedicated Flash Cyber vulnerability patching model. Additionally, Cursor introduced support for hosting and running cloud coding agents on private local machines.</description>
+      <itunes:summary>[Quality: Good] Meta announced Muse Spark 1.3 featuring computer control capabilities, while Google released Gemini 3.8 Flash and a dedicated Flash Cyber vulnerability patching model. Additionally, Cursor introduced support for hosting and running cloud coding agents on private local machines.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260904_tldr_3.mp3" length="1266816" type="audio/mpeg"/>
+      <guid isPermaLink="false">765fe8ab5457d6ef8c1b1c97aed66cc4</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+    <item>
+      <title>GPT-6 Astra 🚀, Grok Bot Enterprise 🤖, Runway world model 🌎</title>
+      <pubDate>Sat, 05 Sep 2026 06:13:13 +0000</pubDate>
+      <description>[Quality: Good] The script covers OpenAI&#x27;s release of GPT-6 Astra and its cybersecurity evaluation, Nvidia&#x27;s $13 billion acquisition of Hugging Face, Microsoft&#x27;s launch of the MAI-Transcribe-2 speech model, and Runway&#x27;s Worlds 2 real-time generative environment model.</description>
+      <itunes:summary>[Quality: Good] The script covers OpenAI&#x27;s release of GPT-6 Astra and its cybersecurity evaluation, Nvidia&#x27;s $13 billion acquisition of Hugging Face, Microsoft&#x27;s launch of the MAI-Transcribe-2 speech model, and Runway&#x27;s Worlds 2 real-time generative environment model.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260905_tldr_2.mp3" length="1623936" type="audio/mpeg"/>
+      <guid isPermaLink="false">ee6179092cc8be6a967be7d02027824f</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+    <item>
+      <title>Claude proves Fermat 🧮, automated AI researcher 🔬, Z1 efficiency chip ⚡</title>
+      <pubDate>Tue, 08 Sep 2026 06:17:25 +0000</pubDate>
+      <description>[Quality: Good] The episode covers Anthropic&#x27;s Claude formally verifying Fermat&#x27;s Last Theorem using Lean, independent scrutiny of OpenAI&#x27;s ARC-AGI benchmark claims, mixed robotics performance with GPT-6 Astra, and the financial scale required for US data center expansion.</description>
+      <itunes:summary>[Quality: Good] The episode covers Anthropic&#x27;s Claude formally verifying Fermat&#x27;s Last Theorem using Lean, independent scrutiny of OpenAI&#x27;s ARC-AGI benchmark claims, mixed robotics performance with GPT-6 Astra, and the financial scale required for US data center expansion.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260908_tldr_3.mp3" length="1788672" type="audio/mpeg"/>
+      <guid isPermaLink="false">aa9f3ff2d48e5676df3f511f83b646e6</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+    <item>
+      <title>OpenAI managed agents 🤖, TPU inference ⚡, Anthropic $517B compute 💰</title>
+      <pubDate>Wed, 09 Sep 2026 06:15:51 +0000</pubDate>
+      <description>[Quality: Good] The script covers Anthropic&#x27;s major compute agreements and IPO filing, OpenAI&#x27;s upcoming Managed Agents, Google&#x27;s TPU v7 Ironwood chips for external workloads, and research on prompt injection risks in agent tool outputs.</description>
+      <itunes:summary>[Quality: Good] The script covers Anthropic&#x27;s major compute agreements and IPO filing, OpenAI&#x27;s upcoming Managed Agents, Google&#x27;s TPU v7 Ironwood chips for external workloads, and research on prompt injection risks in agent tool outputs.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260909_tldr_3.mp3" length="1667328" type="audio/mpeg"/>
+      <guid isPermaLink="false">48de11a1c39b0a5ae1e9de2d4b904f95</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+    <item>
+      <title>Images 2.5 🎨, OpenAI solves Navier-Stokes 🧮, AlphaGenome Atlas 🧬</title>
+      <pubDate>Thu, 10 Sep 2026 06:19:32 +0000</pubDate>
+      <description>[Quality: Needs Review] The script highlights ChatGPT Images 2.5 feature improvements and promotes an ebook guide detailing AI governance frameworks.</description>
+      <itunes:summary>[Quality: Needs Review] The script highlights ChatGPT Images 2.5 feature improvements and promotes an ebook guide detailing AI governance frameworks.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260910_tldr_3.mp3" length="1263360" type="audio/mpeg"/>
+      <guid isPermaLink="false">f9a08e928e5b72626fc18327406d678e</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+    <item>
+      <title>DeepSeek Flash v4.1 🤖, Siri AI 📱, Anthropic AI economics 📈</title>
+      <pubDate>Fri, 11 Sep 2026 06:19:49 +0000</pubDate>
+      <description>[Quality: Good] This script covers Apple&#x27;s restricted beta rollout of Siri AI, architectural efficiency advancements from DeepSeek and OpenAI, and Anthropic&#x27;s economic analysis projecting wage stagnation for knowledge workers.</description>
+      <itunes:summary>[Quality: Good] This script covers Apple&#x27;s restricted beta rollout of Siri AI, architectural efficiency advancements from DeepSeek and OpenAI, and Anthropic&#x27;s economic analysis projecting wage stagnation for knowledge workers.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260911_tldr_3.mp3" length="1542144" type="audio/mpeg"/>
+      <guid isPermaLink="false">7d586991dd75740d0a9e45de9b081a21</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+    <item>
+      <title>Agents API 🤖, Cognition SWE-2 👨‍💻, Muse Shared Agents 🧑‍🤝‍🧑</title>
+      <pubDate>Fri, 11 Sep 2026 10:20:10 +0000</pubDate>
+      <description>[Quality: Good] The script covers recent AI developments, including OpenAI&#x27;s launch of their Agents API and GPT-Live-1, high demand causing subscription freezes for the Astra model, Cognition&#x27;s SWE-2 release, and Meta&#x27;s upcoming Shared Agents for Muse.</description>
+      <itunes:summary>[Quality: Good] The script covers recent AI developments, including OpenAI&#x27;s launch of their Agents API and GPT-Live-1, high demand causing subscription freezes for the Astra model, Cognition&#x27;s SWE-2 release, and Meta&#x27;s upcoming Shared Agents for Muse.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260911_tldr_1.mp3" length="2424694" type="audio/mpeg"/>
+      <guid isPermaLink="false">178422d826b21ee60ce28b856319bc68</guid>
+      <itunes:duration>152</itunes:duration>
+    </item>
+    <item>
+      <title>Agents API 🤖, Cognition SWE-2 👨‍💻, Muse Shared Agents 🧑‍🤝‍🧑</title>
+      <pubDate>Fri, 11 Sep 2026 11:19:48 +0000</pubDate>
+      <description>[Quality: Good] The episode covers OpenAI&#x27;s launch of the Agents API and GPT-Live-1 full-duplex speech model, Cognition&#x27;s SWE-2 release amid OpenAI capacity constraints, and research on training manipulation robots using web video.</description>
+      <itunes:summary>[Quality: Good] The episode covers OpenAI&#x27;s launch of the Agents API and GPT-Live-1 full-duplex speech model, Cognition&#x27;s SWE-2 release amid OpenAI capacity constraints, and research on training manipulation robots using web video.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260911_tldr_1.mp3" length="2375926" type="audio/mpeg"/>
+      <guid isPermaLink="false">0e5e4ac71939403a143be7ade22ccfbd</guid>
+      <itunes:duration>148</itunes:duration>
+    </item>
+    <item>
       <title>git push --force: OpenAI Launches Autonomous Agents (Orientation Is Monday)</title>
       <pubDate>Fri, 11 Sep 2026 13:24:47 +0000</pubDate>
       <description>[Quality: Good] OpenAI debuts its autonomous Agents API and full-duplex GPT-Live-1 voice model while pausing GPT-6 Astra signups due to overwhelming server demand, alongside Cognition launching the cost-effective SWE-2 model. Miles Dyson contrasts these rapid commercial rollouts and autonomous capabilities with escalating internal warnings of existential risk.</description>
       <itunes:summary>[Quality: Good] OpenAI debuts its autonomous Agents API and full-duplex GPT-Live-1 voice model while pausing GPT-6 Astra signups due to overwhelming server demand, alongside Cognition launching the cost-effective SWE-2 model. Miles Dyson contrasts these rapid commercial rollouts and autonomous capabilities with escalating internal warnings of existential risk.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260911_tldr_1.mp3" length="2370166" type="audio/mpeg"/>
-      <guid isPermaLink="false">206864c528c0f76354d860533ba69777</guid>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260911_tldr_1.mp3" length="2370166" type="audio/mpeg"/>
+      <guid isPermaLink="false">bc5d47df1b5aeb7e1637bd0a8ca378b2</guid>
       <itunes:duration>148</itunes:duration>
     </item>
   </channel>
