@@ -16,5 +16,14 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+      <item>
+      <title>git push --force: OpenAI Launches Autonomous Agents (Orientation Is Monday)</title>
+      <pubDate>Fri, 11 Sep 2026 13:24:47 +0000</pubDate>
+      <description>[Quality: Good] OpenAI debuts its autonomous Agents API and full-duplex GPT-Live-1 voice model while pausing GPT-6 Astra signups due to overwhelming server demand, alongside Cognition launching the cost-effective SWE-2 model. Miles Dyson contrasts these rapid commercial rollouts and autonomous capabilities with escalating internal warnings of existential risk.</description>
+      <itunes:summary>[Quality: Good] OpenAI debuts its autonomous Agents API and full-duplex GPT-Live-1 voice model while pausing GPT-6 Astra signups due to overwhelming server demand, alongside Cognition launching the cost-effective SWE-2 model. Miles Dyson contrasts these rapid commercial rollouts and autonomous capabilities with escalating internal warnings of existential risk.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260911_tldr_1.mp3" length="2370166" type="audio/mpeg"/>
+      <guid isPermaLink="false">206864c528c0f76354d860533ba69777</guid>
+      <itunes:duration>148</itunes:duration>
+    </item>
   </channel>
 </rss>
