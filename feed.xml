@@ -223,5 +223,14 @@
       <guid isPermaLink="false">0c5eaa4cb304f13c81e702061ceb9025</guid>
       <itunes:duration>151</itunes:duration>
     </item>
+      <item>
+      <title>chmod 777 wallet: Claude Gets Direct Bank Access (Goodbye Rent)</title>
+      <pubDate>Wed, 16 Sep 2026 06:18:54 +0000</pubDate>
+      <description>[Quality: Good] The episode reviews Apple&#x27;s unannounced Siri model delegation framework in iOS 27, Anthropic&#x27;s planned Claude Money bank integration, OpenAI&#x27;s acquisition of camera startup Glass Imaging, and tech leaders lobbying for AI safety regulations.</description>
+      <itunes:summary>[Quality: Good] The episode reviews Apple&#x27;s unannounced Siri model delegation framework in iOS 27, Anthropic&#x27;s planned Claude Money bank integration, OpenAI&#x27;s acquisition of camera startup Glass Imaging, and tech leaders lobbying for AI safety regulations.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260916_tldr_3.mp3" length="2335990" type="audio/mpeg"/>
+      <guid isPermaLink="false">d887b33a371b7d70ba1d5311722626f4</guid>
+      <itunes:duration>146</itunes:duration>
+    </item>
   </channel>
 </rss>
