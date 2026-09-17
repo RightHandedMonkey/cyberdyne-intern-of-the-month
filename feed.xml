@@ -17,15 +17,6 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>GLM-5.3 🤖, Stripe OpenRouter deal 💰, AI agent consensus 🤝</title>
-      <pubDate>Tue, 18 Aug 2026 06:25:07 +0000</pubDate>
-      <description>[Quality: Good] The script covers major AI acquisitions including Stripe buying OpenRouter and SpaceX acquiring Cursor, massive infrastructure moves from Nvidia and OpenAI, new model releases like GLM-5.3 and Qwen 3.8, and key research breakthroughs in agent architectures and transformer design.</description>
-      <itunes:summary>[Quality: Good] The script covers major AI acquisitions including Stripe buying OpenRouter and SpaceX acquiring Cursor, massive infrastructure moves from Nvidia and OpenAI, new model releases like GLM-5.3 and Qwen 3.8, and key research breakthroughs in agent architectures and transformer design.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260818_tldr_3.mp3" length="5912832" type="audio/mpeg"/>
-      <guid isPermaLink="false">306d4eaa4355d841c7e5507552ef7529</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-    <item>
       <title>Cursor Origin 👨‍💻, Anthropic $65B revenue 💰, deadline dividend scaling 📈</title>
       <pubDate>Wed, 19 Aug 2026 06:15:27 +0000</pubDate>
       <description>[Quality: Good] The script covers Cursor&#x27;s rollout of its Origin code hosting platform, Anthropic&#x27;s massive annualized revenue growth, Groq&#x27;s $350 million funding round, and a new study highlighting benchmark inflation in compound AI pipelines.</description>
@@ -231,6 +222,15 @@
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260916_tldr_3.mp3" length="2335990" type="audio/mpeg"/>
       <guid isPermaLink="false">d887b33a371b7d70ba1d5311722626f4</guid>
       <itunes:duration>146</itunes:duration>
+    </item>
+      <item>
+      <title>git push --force: Autonomous Agents Get Live Credit Cards (RIP Company Budget)</title>
+      <pubDate>Thu, 17 Sep 2026 06:18:07 +0000</pubDate>
+      <description>[Quality: Good] The episode covers Jev&#x27;s fast System 1 reflex models, Odyssey-3&#x27;s physical foundation world model for robotics, and autonomous agents paying web paywalls via the x402 protocol. It also reviews Periodic Neon outperforming frontier AI in laboratory materials science.</description>
+      <itunes:summary>[Quality: Good] The episode covers Jev&#x27;s fast System 1 reflex models, Odyssey-3&#x27;s physical foundation world model for robotics, and autonomous agents paying web paywalls via the x402 protocol. It also reviews Periodic Neon outperforming frontier AI in laboratory materials science.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260917_tldr_3.mp3" length="2435446" type="audio/mpeg"/>
+      <guid isPermaLink="false">ac212c255a71d4f1992f668f9ae509de</guid>
+      <itunes:duration>152</itunes:duration>
     </item>
   </channel>
 </rss>
