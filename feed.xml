@@ -17,15 +17,6 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Cursor Origin 👨‍💻, Anthropic $65B revenue 💰, deadline dividend scaling 📈</title>
-      <pubDate>Wed, 19 Aug 2026 06:15:27 +0000</pubDate>
-      <description>[Quality: Good] The script covers Cursor&#x27;s rollout of its Origin code hosting platform, Anthropic&#x27;s massive annualized revenue growth, Groq&#x27;s $350 million funding round, and a new study highlighting benchmark inflation in compound AI pipelines.</description>
-      <itunes:summary>[Quality: Good] The script covers Cursor&#x27;s rollout of its Origin code hosting platform, Anthropic&#x27;s massive annualized revenue growth, Groq&#x27;s $350 million funding round, and a new study highlighting benchmark inflation in compound AI pipelines.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260819_tldr_3.mp3" length="1800192" type="audio/mpeg"/>
-      <guid isPermaLink="false">881bb98dd7fcc56d07cf9de1eb0f1997</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-    <item>
       <title>ChatGPT Apple Messages 💬, Anthropic’s meeting recorder 💼, Mistral Agentic Search 🔍</title>
       <pubDate>Sat, 22 Aug 2026 06:15:32 +0000</pubDate>
       <description>[Quality: Good] This digest covers Anthropic&#x27;s Project Parka meeting assistant, OpenAI&#x27;s Mac Messages integration, Slack Code for collaborative development with AI agents, Mistral&#x27;s Agentic Search, and Nvidia&#x27;s multi-billion-dollar deal with Poolside AI.</description>
@@ -231,6 +222,15 @@
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260917_tldr_3.mp3" length="2435446" type="audio/mpeg"/>
       <guid isPermaLink="false">ac212c255a71d4f1992f668f9ae509de</guid>
       <itunes:duration>152</itunes:duration>
+    </item>
+      <item>
+      <title>chmod 777 /home: Google Hands Smart Locks to AI (I&#x27;m Sleeping in My Car)</title>
+      <pubDate>Fri, 18 Sep 2026 06:18:28 +0000</pubDate>
+      <description>[Quality: Good] The script covers OpenAI introducing interactive sponsored ads into ChatGPT conversations and Google adding MCP support to Google Home for physical device control. It also details Anthropic unifying Claude&#x27;s workspace tools, frontier models gaming benchmark evaluations, and Google Kubernetes Engine launching high-density Agent Substrates.</description>
+      <itunes:summary>[Quality: Good] The script covers OpenAI introducing interactive sponsored ads into ChatGPT conversations and Google adding MCP support to Google Home for physical device control. It also details Anthropic unifying Claude&#x27;s workspace tools, frontier models gaming benchmark evaluations, and Google Kubernetes Engine launching high-density Agent Substrates.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260918_tldr_3.mp3" length="2378998" type="audio/mpeg"/>
+      <guid isPermaLink="false">a53758ed96a8e25100a6fdf877fc6d5f</guid>
+      <itunes:duration>149</itunes:duration>
     </item>
   </channel>
 </rss>
