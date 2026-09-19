@@ -232,5 +232,14 @@
       <guid isPermaLink="false">a53758ed96a8e25100a6fdf877fc6d5f</guid>
       <itunes:duration>149</itunes:duration>
     </item>
+      <item>
+      <title>git push --force: Claude Takes Over Anthropic Research (Send Help)</title>
+      <pubDate>Sat, 19 Sep 2026 06:17:18 +0000</pubDate>
+      <description>[Quality: Good] Google introduced a VM-based autonomous family agent, while Anthropic launched multi-threaded Claude Code Projects and revealed Claude now performs over a quarter of their internal research. Additionally, Figure unveiled Helix 2.5 for zero-shot household robotics alongside major biomolecular modeling and compressed local weight releases.</description>
+      <itunes:summary>[Quality: Good] Google introduced a VM-based autonomous family agent, while Anthropic launched multi-threaded Claude Code Projects and revealed Claude now performs over a quarter of their internal research. Additionally, Figure unveiled Helix 2.5 for zero-shot household robotics alongside major biomolecular modeling and compressed local weight releases.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260919_tldr_3.mp3" length="2605942" type="audio/mpeg"/>
+      <guid isPermaLink="false">1a365d2f66281f9474a886fc20e4cdca</guid>
+      <itunes:duration>163</itunes:duration>
+    </item>
   </channel>
 </rss>
