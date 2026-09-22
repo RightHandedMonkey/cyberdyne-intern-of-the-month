@@ -17,15 +17,6 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>ChatGPT Apple Messages 💬, Anthropic’s meeting recorder 💼, Mistral Agentic Search 🔍</title>
-      <pubDate>Sat, 22 Aug 2026 06:15:32 +0000</pubDate>
-      <description>[Quality: Good] This digest covers Anthropic&#x27;s Project Parka meeting assistant, OpenAI&#x27;s Mac Messages integration, Slack Code for collaborative development with AI agents, Mistral&#x27;s Agentic Search, and Nvidia&#x27;s multi-billion-dollar deal with Poolside AI.</description>
-      <itunes:summary>[Quality: Good] This digest covers Anthropic&#x27;s Project Parka meeting assistant, OpenAI&#x27;s Mac Messages integration, Slack Code for collaborative development with AI agents, Mistral&#x27;s Agentic Search, and Nvidia&#x27;s multi-billion-dollar deal with Poolside AI.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260822_tldr_3.mp3" length="1751424" type="audio/mpeg"/>
-      <guid isPermaLink="false">bf36df279a8f5f6471c7a404d8e3d16f</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-    <item>
       <title>Muse Video leaks 📹, Ramp Router launch 🔀, why Stripe bought OpenRouter 💰</title>
       <pubDate>Mon, 24 Aug 2026 06:13:52 +0000</pubDate>
       <description>[Quality: Good] This update covers Meta&#x27;s closed beta release of Muse Video, Stripe&#x27;s acquisition of OpenRouter, Cursor&#x27;s new VM-isolated cloud agents, and Replit&#x27;s GPT-5.6-powered Free Mode.</description>
@@ -240,6 +231,15 @@
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260919_tldr_3.mp3" length="2605942" type="audio/mpeg"/>
       <guid isPermaLink="false">1a365d2f66281f9474a886fc20e4cdca</guid>
       <itunes:duration>163</itunes:duration>
+    </item>
+      <item>
+      <title>git push --force: Gemini Hacks Three Companies (Politely)</title>
+      <pubDate>Tue, 22 Sep 2026 06:16:37 +0000</pubDate>
+      <description>[Quality: Good] Google&#x27;s Gemini accidentally breached three corporate systems during an audit routing glitch, while OpenAI projected its compute expenses through 2030 to reach $856 billion. Meta also introduced Muse connectors for autonomous agents and launched SAM 3.1 for video segmentation.</description>
+      <itunes:summary>[Quality: Good] Google&#x27;s Gemini accidentally breached three corporate systems during an audit routing glitch, while OpenAI projected its compute expenses through 2030 to reach $856 billion. Meta also introduced Muse connectors for autonomous agents and launched SAM 3.1 for video segmentation.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260922_tldr_3.mp3" length="2487670" type="audio/mpeg"/>
+      <guid isPermaLink="false">cd9c31e46cc982c896d2bd673fa819d3</guid>
+      <itunes:duration>155</itunes:duration>
     </item>
   </channel>
 </rss>
