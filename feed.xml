@@ -17,24 +17,6 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Muse Video leaks 📹, Ramp Router launch 🔀, why Stripe bought OpenRouter 💰</title>
-      <pubDate>Mon, 24 Aug 2026 06:13:52 +0000</pubDate>
-      <description>[Quality: Good] This update covers Meta&#x27;s closed beta release of Muse Video, Stripe&#x27;s acquisition of OpenRouter, Cursor&#x27;s new VM-isolated cloud agents, and Replit&#x27;s GPT-5.6-powered Free Mode.</description>
-      <itunes:summary>[Quality: Good] This update covers Meta&#x27;s closed beta release of Muse Video, Stripe&#x27;s acquisition of OpenRouter, Cursor&#x27;s new VM-isolated cloud agents, and Replit&#x27;s GPT-5.6-powered Free Mode.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260824_tldr_2.mp3" length="1788288" type="audio/mpeg"/>
-      <guid isPermaLink="false">ef91813eeea72694193cc00a228f1b17</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-    <item>
-      <title>GLM-5.3 API 🤖, Cerebras’ new chip ⚡, OpenAI cyber slowdown 🚨</title>
-      <pubDate>Mon, 24 Aug 2026 06:15:39 +0000</pubDate>
-      <description>[Quality: Good] This digest covers Z.AI&#x27;s GLM-5.3 API launch, Cerebras&#x27;s unveiling of the CS-4 AI supercomputer, OpenAI&#x27;s pause on certain RL training due to cybersecurity risk signals, and Etched&#x27;s $700M funding round.</description>
-      <itunes:summary>[Quality: Good] This digest covers Z.AI&#x27;s GLM-5.3 API launch, Cerebras&#x27;s unveiling of the CS-4 AI supercomputer, OpenAI&#x27;s pause on certain RL training due to cybersecurity risk signals, and Etched&#x27;s $700M funding round.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260824_tldr_3.mp3" length="1830144" type="audio/mpeg"/>
-      <guid isPermaLink="false">c504a020aa952fff0a5ffc9cfaad5efc</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-    <item>
       <title>DeepSeek Flash Vision 👀, Claude Mythos security 🛡️, inside Grok Bot 🤖</title>
       <pubDate>Tue, 25 Aug 2026 06:17:02 +0000</pubDate>
       <description>[Quality: Good] The script highlights Hugging Face&#x27;s reported $13 billion valuation exploration and DeepSeek&#x27;s new multimodal Flash Vision model. It also covers Anthropic&#x27;s defensive Claude Mythos 5 rollout for code security and Grok Bot&#x27;s autonomous agent integration into tools like Cursor.</description>
@@ -240,6 +222,15 @@
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260922_tldr_3.mp3" length="2487670" type="audio/mpeg"/>
       <guid isPermaLink="false">cd9c31e46cc982c896d2bd673fa819d3</guid>
       <itunes:duration>155</itunes:duration>
+    </item>
+      <item>
+      <title>git push --force: Xiaomi Hands AI a Robotic Arm (Calling in Sick)</title>
+      <pubDate>Wed, 23 Sep 2026 06:18:03 +0000</pubDate>
+      <description>[Quality: Good] The briefing covers Meta&#x27;s Muse agent facing an enterprise ban at Amazon, Xiaomi open-sourcing its MiMo-v2.6 robotics model, and major frontier model breakthroughs from OpenAI, Anthropic, and xAI. It also highlights the developer ecosystem&#x27;s shift toward terminal-integrated tools and ultra-efficient micro-models.</description>
+      <itunes:summary>[Quality: Good] The briefing covers Meta&#x27;s Muse agent facing an enterprise ban at Amazon, Xiaomi open-sourcing its MiMo-v2.6 robotics model, and major frontier model breakthroughs from OpenAI, Anthropic, and xAI. It also highlights the developer ecosystem&#x27;s shift toward terminal-integrated tools and ultra-efficient micro-models.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260923_tldr_3.mp3" length="2570230" type="audio/mpeg"/>
+      <guid isPermaLink="false">215a295780481a25c235f2fccfd603fb</guid>
+      <itunes:duration>161</itunes:duration>
     </item>
   </channel>
 </rss>
