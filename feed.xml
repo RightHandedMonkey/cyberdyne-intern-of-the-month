@@ -17,15 +17,6 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>DeepSeek Flash Vision 👀, Claude Mythos security 🛡️, inside Grok Bot 🤖</title>
-      <pubDate>Tue, 25 Aug 2026 06:17:02 +0000</pubDate>
-      <description>[Quality: Good] The script highlights Hugging Face&#x27;s reported $13 billion valuation exploration and DeepSeek&#x27;s new multimodal Flash Vision model. It also covers Anthropic&#x27;s defensive Claude Mythos 5 rollout for code security and Grok Bot&#x27;s autonomous agent integration into tools like Cursor.</description>
-      <itunes:summary>[Quality: Good] The script highlights Hugging Face&#x27;s reported $13 billion valuation exploration and DeepSeek&#x27;s new multimodal Flash Vision model. It also covers Anthropic&#x27;s defensive Claude Mythos 5 rollout for code security and Grok Bot&#x27;s autonomous agent integration into tools like Cursor.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260825_tldr_3.mp3" length="1742976" type="audio/mpeg"/>
-      <guid isPermaLink="false">028bb47cb1820fa4fa6fce042358f208</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-    <item>
       <title>Nvidia’s Groq chip ⚡, frontier economics 💰, Ox Alpha mystery 🕵️</title>
       <pubDate>Wed, 26 Aug 2026 06:16:23 +0000</pubDate>
       <description>[Quality: Good] This digest covers major AI and hardware updates, including the release of Groq 3 LPX inference accelerators, Nvidia expanding CUDA support to RISC-V, the mysterious high-throughput Ox Alpha model, Anthropic hiring Amir Salek to design custom silicon, and Alibaba launching Wan 3.0 for video generation.</description>
@@ -231,6 +222,15 @@
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260923_tldr_3.mp3" length="2570230" type="audio/mpeg"/>
       <guid isPermaLink="false">215a295780481a25c235f2fccfd603fb</guid>
       <itunes:duration>161</itunes:duration>
+    </item>
+      <item>
+      <title>pip install wetware: Amazon Clouds Living Neurons for Video (I Miss Pure Silicon)</title>
+      <pubDate>Thu, 24 Sep 2026 06:17:05 +0000</pubDate>
+      <description>[Quality: Good] OpenAI and Anthropic introduce discounted frontier models while SWE-Bench Pro V2 sharply deflates flagship coding benchmark scores. Meanwhile, Amazon partners to offer video generation powered by living neurons as lab executives prepare to address AI safety at the UN.</description>
+      <itunes:summary>[Quality: Good] OpenAI and Anthropic introduce discounted frontier models while SWE-Bench Pro V2 sharply deflates flagship coding benchmark scores. Meanwhile, Amazon partners to offer video generation powered by living neurons as lab executives prepare to address AI safety at the UN.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260924_tldr_3.mp3" length="2466166" type="audio/mpeg"/>
+      <guid isPermaLink="false">4f3c9d43eb1649734dd98604998889e3</guid>
+      <itunes:duration>154</itunes:duration>
     </item>
   </channel>
 </rss>
