@@ -16,6 +16,12 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/cover.jpg"/>
+    <image>
+      <url>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/cover.jpg</url>
+      <title>Cyberdyne Intern of the Month: The Miles Dyson Podcast</title>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
+    </image>
     <item>
       <title>GLM-5.3 Flash ⚡, Claudeforce 🤝, NVIDIA revenue surge 📈</title>
       <pubDate>Fri, 28 Aug 2026 06:15:24 +0000</pubDate>

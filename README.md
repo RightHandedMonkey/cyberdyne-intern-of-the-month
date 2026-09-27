@@ -1,5 +1,9 @@
 # Cyberdyne Intern of the Month: The Miles Dyson Podcast
 
+<p align="center">
+  <img src="cover.jpg" alt="Cyberdyne Intern of the Month: The Miles Dyson Podcast Cover Art" width="360"/>
+</p>
+
 > Daily tech and AI news digest with punchy, sharp commentary from future Cyberdyne Systems intern Miles Dyson. Grounded in the reality of building the literal apocalypse while navigating corporate bureaucracy.
 
 ---
