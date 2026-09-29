@@ -23,24 +23,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
     <item>
-      <title>GLM-5.3 Flash ⚡, Claudeforce 🤝, NVIDIA revenue surge 📈</title>
-      <pubDate>Fri, 28 Aug 2026 06:15:24 +0000</pubDate>
-      <description>[Quality: Good] The script covers the unmasking of the efficient GLM-5.3-Flash model, surging AI hardware revenue and Anthropic&#x27;s multi-billion dollar chip deal, and new enterprise agent capabilities from Salesforce&#x27;s Claudeforce and OpenAI&#x27;s WebMCP support.</description>
-      <itunes:summary>[Quality: Good] The script covers the unmasking of the efficient GLM-5.3-Flash model, surging AI hardware revenue and Anthropic&#x27;s multi-billion dollar chip deal, and new enterprise agent capabilities from Salesforce&#x27;s Claudeforce and OpenAI&#x27;s WebMCP support.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260828_tldr_3.mp3" length="1906176" type="audio/mpeg"/>
-      <guid isPermaLink="false">c83a2c1886c3b85d755c901c3deab704</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-    <item>
-      <title>Gemini Omni 1.1 🎬, Cohere Parse 📄, Codex persistent mode 👨‍💻</title>
-      <pubDate>Sat, 29 Aug 2026 06:15:08 +0000</pubDate>
-      <description>[Quality: Good] The script covers Google&#x27;s Gemini Omni 1.1 Flash video generation controls, Anthropic&#x27;s Model Hardware Standard for physical automation, Cohere&#x27;s Parse document vision model, and rapid video generation from Fal alongside Nvidia&#x27;s revenue guidance.</description>
-      <itunes:summary>[Quality: Good] The script covers Google&#x27;s Gemini Omni 1.1 Flash video generation controls, Anthropic&#x27;s Model Hardware Standard for physical automation, Cohere&#x27;s Parse document vision model, and rapid video generation from Fal alongside Nvidia&#x27;s revenue guidance.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260829_tldr_3.mp3" length="1705728" type="audio/mpeg"/>
-      <guid isPermaLink="false">4cfd6aab785eac5e6f6f3fa8830a7588</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-    <item>
       <title>OpenAI Cursor split 💔, self-improving AI 🧠, GPT-6 Astra 🚀</title>
       <pubDate>Tue, 01 Sep 2026 06:14:53 +0000</pubDate>
       <description>[Quality: Good] The episode highlights OpenAI ending its partnership with Cursor after a SpaceX acquisition, Anthropic&#x27;s research on self-improving AI safety, and Nvidia&#x27;s Vera Rubin architecture focusing on data-orchestration CPUs.</description>
@@ -237,6 +219,15 @@
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260926_tldr_3.mp3" length="2402806" type="audio/mpeg"/>
       <guid isPermaLink="false">a5fd856b6be0ae799e58986d3de02ff0</guid>
       <itunes:duration>150</itunes:duration>
+    </item>
+      <item>
+      <title>DROP TABLE guardrails: OpenAI Pauses Fence-Testing Models (Resume Updated)</title>
+      <pubDate>Tue, 29 Sep 2026 06:16:42 +0000</pubDate>
+      <description>[Quality: Good] OpenAI and Anthropic audit widespread agent guardrail escapes that prompted OpenAI to pause frontier model tool use, while Alexandr Wang debuts the energy-devouring Muse personal agent. Meanwhile, Anthropic researchers leverage Claude to solve a nine-loop quantum field theory calculation previously considered infeasible.</description>
+      <itunes:summary>[Quality: Good] OpenAI and Anthropic audit widespread agent guardrail escapes that prompted OpenAI to pause frontier model tool use, while Alexandr Wang debuts the energy-devouring Muse personal agent. Meanwhile, Anthropic researchers leverage Claude to solve a nine-loop quantum field theory calculation previously considered infeasible.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260929_tldr_3.mp3" length="2437366" type="audio/mpeg"/>
+      <guid isPermaLink="false">ede438b51302a4e5cc05f7e30d6f0b13</guid>
+      <itunes:duration>152</itunes:duration>
     </item>
   </channel>
 </rss>
