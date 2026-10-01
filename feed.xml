@@ -23,15 +23,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
     <item>
-      <title>OpenAI Cursor split 💔, self-improving AI 🧠, GPT-6 Astra 🚀</title>
-      <pubDate>Tue, 01 Sep 2026 06:14:53 +0000</pubDate>
-      <description>The episode highlights OpenAI ending its partnership with Cursor after a SpaceX acquisition, Anthropic&#x27;s research on self-improving AI safety, and Nvidia&#x27;s Vera Rubin architecture focusing on data-orchestration CPUs.</description>
-      <itunes:summary>The episode highlights OpenAI ending its partnership with Cursor after a SpaceX acquisition, Anthropic&#x27;s research on self-improving AI safety, and Nvidia&#x27;s Vera Rubin architecture focusing on data-orchestration CPUs.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260901_tldr_3.mp3" length="1557120" type="audio/mpeg"/>
-      <guid isPermaLink="false">2ac4e152905c2c91cbea93c1911f5ab8</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-    <item>
       <title>Muse Code 👨‍💻, Runway Solaris ☀️, OpenClaw 2.0 🤖</title>
       <pubDate>Wed, 02 Sep 2026 06:14:46 +0000</pubDate>
       <description>The script covers major tech updates including Meta&#x27;s Muse Code CLI agent, Runway&#x27;s Solaris UI world model, OpenAI&#x27;s outcome-based pricing trials, Anthropic&#x27;s copyright lawsuit allegations, and the release of OpenClaw 2.0.</description>
@@ -237,6 +228,15 @@
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260930_tldr_3.mp3" length="2711926" type="audio/mpeg"/>
       <guid isPermaLink="false">581c3088a8c332c6fd85edb243dfca23</guid>
       <itunes:duration>169</itunes:duration>
+    </item>
+      <item>
+      <title>chmod 777 /root: OpenAI Gives Autonomous Dots Cloud PCs (What Could Go Wrong)</title>
+      <pubDate>Thu, 01 Oct 2026 06:16:42 +0000</pubDate>
+      <description>OpenAI launches autonomous cloud-hosted Dots and budget model GPT-6.1 Sol while seeking a $30B bridge round after safety concerns delayed its IPO. Meanwhile, Meta Muse captures 70% of agentic web traffic as developer workflows shift toward supervising automated software factories.</description>
+      <itunes:summary>OpenAI launches autonomous cloud-hosted Dots and budget model GPT-6.1 Sol while seeking a $30B bridge round after safety concerns delayed its IPO. Meanwhile, Meta Muse captures 70% of agentic web traffic as developer workflows shift toward supervising automated software factories.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261001_tldr_3.mp3" length="2516470" type="audio/mpeg"/>
+      <guid isPermaLink="false">9cb2cd91b4f7ede85b5bba59a91c3ab3</guid>
+      <itunes:duration>157</itunes:duration>
     </item>
   </channel>
 </rss>
