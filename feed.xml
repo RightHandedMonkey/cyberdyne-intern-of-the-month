@@ -238,5 +238,14 @@
       <guid isPermaLink="false">cf8664e986c555478a9281ee83e5b897</guid>
       <itunes:duration>167</itunes:duration>
     </item>
+      <item>
+      <title>sudo setenforce 0: Nvidia Launches OpenShell Kernel Sandbox (Zero Trust Indeed)</title>
+      <pubDate>Fri, 02 Oct 2026 07:51:55 +0000</pubDate>
+      <description>Google debuted the cybersecurity-focused Gemini 4 Argon, while Nvidia launched the OpenShell runtime to enforce kernel-level syscall restrictions on autonomous agents. The briefing also examines OpenAI&#x27;s custom Jalapeño accelerator, DeepSeek&#x27;s CUDA abstraction layer, and Runway&#x27;s Praxis-1 robotics model.</description>
+      <itunes:summary>Google debuted the cybersecurity-focused Gemini 4 Argon, while Nvidia launched the OpenShell runtime to enforce kernel-level syscall restrictions on autonomous agents. The briefing also examines OpenAI&#x27;s custom Jalapeño accelerator, DeepSeek&#x27;s CUDA abstraction layer, and Runway&#x27;s Praxis-1 robotics model.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261002_tldr_3.mp3" length="2712310" type="audio/mpeg"/>
+      <guid isPermaLink="false">5e540acd079528c81f891d95900ac119</guid>
+      <itunes:duration>169</itunes:duration>
+    </item>
   </channel>
 </rss>
