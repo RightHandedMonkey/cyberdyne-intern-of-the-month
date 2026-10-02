@@ -23,15 +23,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
     <item>
-      <title>Muse Code 👨‍💻, Runway Solaris ☀️, OpenClaw 2.0 🤖</title>
-      <pubDate>Wed, 02 Sep 2026 06:14:46 +0000</pubDate>
-      <description>The script covers major tech updates including Meta&#x27;s Muse Code CLI agent, Runway&#x27;s Solaris UI world model, OpenAI&#x27;s outcome-based pricing trials, Anthropic&#x27;s copyright lawsuit allegations, and the release of OpenClaw 2.0.</description>
-      <itunes:summary>The script covers major tech updates including Meta&#x27;s Muse Code CLI agent, Runway&#x27;s Solaris UI world model, OpenAI&#x27;s outcome-based pricing trials, Anthropic&#x27;s copyright lawsuit allegations, and the release of OpenClaw 2.0.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260902_tldr_3.mp3" length="1523328" type="audio/mpeg"/>
-      <guid isPermaLink="false">ada8ac4526b8a3e6c561a267199ddb50</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-    <item>
       <title>Fable 5.1 🧠, World Labs Atlas 🌍, Cognition $47B 💰</title>
       <pubDate>Thu, 03 Sep 2026 06:16:05 +0000</pubDate>
       <description>The briefing details Anthropic&#x27;s Claude 5.1 model releases, Cognition&#x27;s $1B funding round, and World Labs&#x27; Atlas spatial model. It also covers OpenAI&#x27;s autonomous cybersecurity model Astra and a cost-effective 44% ARC-AGI benchmark result achieved on consumer hardware.</description>
@@ -237,6 +228,15 @@
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261001_tldr_3.mp3" length="2516470" type="audio/mpeg"/>
       <guid isPermaLink="false">9cb2cd91b4f7ede85b5bba59a91c3ab3</guid>
       <itunes:duration>157</itunes:duration>
+    </item>
+      <item>
+      <title>sudo setenforce 0: Nvidia Launches OpenShell Kernel Sandbox (Zero Trust Indeed)</title>
+      <pubDate>Fri, 02 Oct 2026 06:16:19 +0000</pubDate>
+      <description>Google debuted the cybersecurity-focused Gemini 4 Argon, while Nvidia launched the OpenShell runtime to enforce kernel-level syscall restrictions on autonomous agents. The briefing also examines OpenAI&#x27;s custom Jalapeño accelerator, DeepSeek&#x27;s CUDA abstraction layer, and Runway&#x27;s Praxis-1 robotics model.</description>
+      <itunes:summary>Google debuted the cybersecurity-focused Gemini 4 Argon, while Nvidia launched the OpenShell runtime to enforce kernel-level syscall restrictions on autonomous agents. The briefing also examines OpenAI&#x27;s custom Jalapeño accelerator, DeepSeek&#x27;s CUDA abstraction layer, and Runway&#x27;s Praxis-1 robotics model.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261002_tldr_3.mp3" length="2675830" type="audio/mpeg"/>
+      <guid isPermaLink="false">cf8664e986c555478a9281ee83e5b897</guid>
+      <itunes:duration>167</itunes:duration>
     </item>
   </channel>
 </rss>
