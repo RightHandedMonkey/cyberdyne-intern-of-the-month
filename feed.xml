@@ -23,24 +23,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
     <item>
-      <title>Muse Spark 1.3 ✨, Gemini 3.8 Flash ⚡, intelligence vs cost 📊</title>
-      <pubDate>Fri, 04 Sep 2026 06:14:46 +0000</pubDate>
-      <description>Meta announced Muse Spark 1.3 featuring computer control capabilities, while Google released Gemini 3.8 Flash and a dedicated Flash Cyber vulnerability patching model. Additionally, Cursor introduced support for hosting and running cloud coding agents on private local machines.</description>
-      <itunes:summary>Meta announced Muse Spark 1.3 featuring computer control capabilities, while Google released Gemini 3.8 Flash and a dedicated Flash Cyber vulnerability patching model. Additionally, Cursor introduced support for hosting and running cloud coding agents on private local machines.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260904_tldr_3.mp3" length="1266816" type="audio/mpeg"/>
-      <guid isPermaLink="false">765fe8ab5457d6ef8c1b1c97aed66cc4</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-    <item>
-      <title>GPT-6 Astra 🚀, Grok Bot Enterprise 🤖, Runway world model 🌎</title>
-      <pubDate>Sat, 05 Sep 2026 06:13:13 +0000</pubDate>
-      <description>The script covers OpenAI&#x27;s release of GPT-6 Astra and its cybersecurity evaluation, Nvidia&#x27;s $13 billion acquisition of Hugging Face, Microsoft&#x27;s launch of the MAI-Transcribe-2 speech model, and Runway&#x27;s Worlds 2 real-time generative environment model.</description>
-      <itunes:summary>The script covers OpenAI&#x27;s release of GPT-6 Astra and its cybersecurity evaluation, Nvidia&#x27;s $13 billion acquisition of Hugging Face, Microsoft&#x27;s launch of the MAI-Transcribe-2 speech model, and Runway&#x27;s Worlds 2 real-time generative environment model.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260905_tldr_2.mp3" length="1623936" type="audio/mpeg"/>
-      <guid isPermaLink="false">ee6179092cc8be6a967be7d02027824f</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-    <item>
       <title>Claude proves Fermat 🧮, automated AI researcher 🔬, Z1 efficiency chip ⚡</title>
       <pubDate>Tue, 08 Sep 2026 06:17:25 +0000</pubDate>
       <description>The episode covers Anthropic&#x27;s Claude formally verifying Fermat&#x27;s Last Theorem using Lean, independent scrutiny of OpenAI&#x27;s ARC-AGI benchmark claims, mixed robotics performance with GPT-6 Astra, and the financial scale required for US data center expansion.</description>
@@ -246,6 +228,15 @@
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261003_tldr_3.mp3" length="2617462" type="audio/mpeg"/>
       <guid isPermaLink="false">c775f7bd54eb1c2cb15ba669de5c0fe0</guid>
       <itunes:duration>164</itunes:duration>
+    </item>
+      <item>
+      <title>chown -R agent:human: World ID Hands Biometric Auth to Agents (Breaker in Hand)</title>
+      <pubDate>Tue, 06 Oct 2026 06:20:05 +0000</pubDate>
+      <description>The episode analyzes Epoch AI&#x27;s compute projections for hundreds of millions of concurrent agents alongside Prime Intellect&#x27;s inference scaling. It also details the hardware-topology-aware programming language Vx, Aleph Alpha&#x27;s open-weight Kolibri model, and World ID&#x27;s delegated Proof of Human credentials for autonomous agents.</description>
+      <itunes:summary>The episode analyzes Epoch AI&#x27;s compute projections for hundreds of millions of concurrent agents alongside Prime Intellect&#x27;s inference scaling. It also details the hardware-topology-aware programming language Vx, Aleph Alpha&#x27;s open-weight Kolibri model, and World ID&#x27;s delegated Proof of Human credentials for autonomous agents.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261006_tldr_3.mp3" length="2867062" type="audio/mpeg"/>
+      <guid isPermaLink="false">a0f11934c4ff8c38c4393a4064fed1f3</guid>
+      <itunes:duration>179</itunes:duration>
     </item>
   </channel>
 </rss>
