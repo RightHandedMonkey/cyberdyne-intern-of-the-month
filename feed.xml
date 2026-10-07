@@ -238,5 +238,14 @@
       <guid isPermaLink="false">a0f11934c4ff8c38c4393a4064fed1f3</guid>
       <itunes:duration>179</itunes:duration>
     </item>
+      <item>
+      <title>eval(untrusted): Instinct Drops Shared Agents into Group Chats (Calling in Sick)</title>
+      <pubDate>Wed, 07 Oct 2026 06:20:15 +0000</pubDate>
+      <description>OpenAI negotiates a $30B sovereign-backed funding round and launches an enterprise marketplace to service compute debt, while Instinct rolls out shared agents in multi-user group chats despite severe auth risks. Additionally, Reflection debuted its 501B sparse MoE model Beam, and Devin introduced offline dreaming for cross-session memory reconciliation.</description>
+      <itunes:summary>OpenAI negotiates a $30B sovereign-backed funding round and launches an enterprise marketplace to service compute debt, while Instinct rolls out shared agents in multi-user group chats despite severe auth risks. Additionally, Reflection debuted its 501B sparse MoE model Beam, and Devin introduced offline dreaming for cross-session memory reconciliation.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261007_tldr_3.mp3" length="2616310" type="audio/mpeg"/>
+      <guid isPermaLink="false">55dae4fd9576bba6babbf869d8fc3535</guid>
+      <itunes:duration>163</itunes:duration>
+    </item>
   </channel>
 </rss>
