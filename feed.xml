@@ -23,15 +23,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
     <item>
-      <title>Claude proves Fermat 🧮, automated AI researcher 🔬, Z1 efficiency chip ⚡</title>
-      <pubDate>Tue, 08 Sep 2026 06:17:25 +0000</pubDate>
-      <description>The episode covers Anthropic&#x27;s Claude formally verifying Fermat&#x27;s Last Theorem using Lean, independent scrutiny of OpenAI&#x27;s ARC-AGI benchmark claims, mixed robotics performance with GPT-6 Astra, and the financial scale required for US data center expansion.</description>
-      <itunes:summary>The episode covers Anthropic&#x27;s Claude formally verifying Fermat&#x27;s Last Theorem using Lean, independent scrutiny of OpenAI&#x27;s ARC-AGI benchmark claims, mixed robotics performance with GPT-6 Astra, and the financial scale required for US data center expansion.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260908_tldr_3.mp3" length="1788672" type="audio/mpeg"/>
-      <guid isPermaLink="false">aa9f3ff2d48e5676df3f511f83b646e6</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-    <item>
       <title>OpenAI managed agents 🤖, TPU inference ⚡, Anthropic $517B compute 💰</title>
       <pubDate>Wed, 09 Sep 2026 06:15:51 +0000</pubDate>
       <description>The script covers Anthropic&#x27;s major compute agreements and IPO filing, OpenAI&#x27;s upcoming Managed Agents, Google&#x27;s TPU v7 Ironwood chips for external workloads, and research on prompt injection risks in agent tool outputs.</description>
@@ -246,6 +237,15 @@
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261007_tldr_3.mp3" length="2616310" type="audio/mpeg"/>
       <guid isPermaLink="false">55dae4fd9576bba6babbf869d8fc3535</guid>
       <itunes:duration>163</itunes:duration>
+    </item>
+      <item>
+      <title>iptables -F: Meta and Sierra Launch Personal Agent Protocol (Perimeter Down)</title>
+      <pubDate>Thu, 08 Oct 2026 06:18:22 +0000</pubDate>
+      <description>OpenAI launched its low-latency Decisions API to curb inference costs by ditching verbose chain-of-thought, while Meta and Sierra introduced the Personal Agent Protocol to standardize delegated agent authorization. Meanwhile, frontier compute diverged between Europe&#x27;s trillion-parameter Mistral Large 4 and Google&#x27;s lightweight Nano Banana 2.1.</description>
+      <itunes:summary>OpenAI launched its low-latency Decisions API to curb inference costs by ditching verbose chain-of-thought, while Meta and Sierra introduced the Personal Agent Protocol to standardize delegated agent authorization. Meanwhile, frontier compute diverged between Europe&#x27;s trillion-parameter Mistral Large 4 and Google&#x27;s lightweight Nano Banana 2.1.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261008_tldr_3.mp3" length="2716150" type="audio/mpeg"/>
+      <guid isPermaLink="false">0d4e735f17e29deabc69b56de39959cc</guid>
+      <itunes:duration>170</itunes:duration>
     </item>
   </channel>
 </rss>
