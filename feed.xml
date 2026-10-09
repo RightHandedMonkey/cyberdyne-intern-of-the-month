@@ -23,15 +23,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
     <item>
-      <title>OpenAI managed agents 🤖, TPU inference ⚡, Anthropic $517B compute 💰</title>
-      <pubDate>Wed, 09 Sep 2026 06:15:51 +0000</pubDate>
-      <description>The script covers Anthropic&#x27;s major compute agreements and IPO filing, OpenAI&#x27;s upcoming Managed Agents, Google&#x27;s TPU v7 Ironwood chips for external workloads, and research on prompt injection risks in agent tool outputs.</description>
-      <itunes:summary>The script covers Anthropic&#x27;s major compute agreements and IPO filing, OpenAI&#x27;s upcoming Managed Agents, Google&#x27;s TPU v7 Ironwood chips for external workloads, and research on prompt injection risks in agent tool outputs.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260909_tldr_3.mp3" length="1667328" type="audio/mpeg"/>
-      <guid isPermaLink="false">48de11a1c39b0a5ae1e9de2d4b904f95</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-    <item>
       <title>Images 2.5 🎨, OpenAI solves Navier-Stokes 🧮, AlphaGenome Atlas 🧬</title>
       <pubDate>Thu, 10 Sep 2026 06:19:32 +0000</pubDate>
       <description>The script highlights ChatGPT Images 2.5 feature improvements and promotes an ebook guide detailing AI governance frameworks.</description>
@@ -246,6 +237,15 @@
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261008_tldr_3.mp3" length="2716150" type="audio/mpeg"/>
       <guid isPermaLink="false">0d4e735f17e29deabc69b56de39959cc</guid>
       <itunes:duration>170</itunes:duration>
+    </item>
+      <item>
+      <title>dangerouslySetInnerHTML: GPT-6 Renders Client UI (CoT Goes Dark)</title>
+      <pubDate>Fri, 09 Oct 2026 06:18:57 +0000</pubDate>
+      <description>OpenAI introduces GPT-6 with dynamic client-side UI generation amidst diminishing reasoning inspectability, while Anthropic slashes Haiku pricing and Grok pivots into a multi-model aggregator. Additionally, massive chip debt financing collides with Texas data center grid freezes, and Microsoft and Nvidia unveil local agent execution containers with RTX Spark.</description>
+      <itunes:summary>OpenAI introduces GPT-6 with dynamic client-side UI generation amidst diminishing reasoning inspectability, while Anthropic slashes Haiku pricing and Grok pivots into a multi-model aggregator. Additionally, massive chip debt financing collides with Texas data center grid freezes, and Microsoft and Nvidia unveil local agent execution containers with RTX Spark.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261009_tldr_3.mp3" length="2890102" type="audio/mpeg"/>
+      <guid isPermaLink="false">9fbde497bde519bfbbce3a4df6efd6b9</guid>
+      <itunes:duration>181</itunes:duration>
     </item>
   </channel>
 </rss>
