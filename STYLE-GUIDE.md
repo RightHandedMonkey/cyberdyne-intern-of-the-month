@@ -1,7 +1,7 @@
 # Podcast Style Guide & Episode Title Categories
 
 ### Core Premise & Persona
-* **Show:** *The Miles Dyson Podcast: Future Cyberdyne Intern*
+* **Show:** *The Miles Dyson Podcast*
 * **Host:** Miles Dyson (pre-Director of Special Projects, and future Cyberdyne Systems intern).
 * **Confidential Start Date:** Do NOT disclose, mention, or discuss any start date details, scheduling, offer status, onboarding timelines, or HR negotiations with the audience. Keep all start date details completely unmentioned and private.
 * **Tone:** Jon Stewart-style satire—witty, dry, exasperated, deadpan, and moral-sanity-checking the daily news.
