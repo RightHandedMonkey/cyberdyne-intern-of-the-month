@@ -31,37 +31,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
       <item>
-      <title>chmod 777 wallet: Claude Gets Direct Bank Access (Goodbye Rent)</title>
-      <pubDate>Wed, 16 Sep 2026 06:18:54 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
-      <description>In this episode:
-• iOS 27 Siri Delegation Framework: Apple engineered an unannounced architectural framework allowing Siri to delegate tasks across AI models.
-• Claude Money Banking Integration: Anthropic prepared direct consumer banking integrations for Claude.
-• OpenAI Glass Imaging Acquisition: OpenAI acquired camera startup Glass Imaging to bolster its optical hardware capabilities.
-• AI Safety Legislative Push: Prominent tech leaders initiated lobbying campaigns demanding formal regulatory safety standards.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>iOS 27 Siri Delegation Framework:</strong> Apple engineered an unannounced architectural framework allowing Siri to delegate tasks across AI models.</li>
-  <li><strong>Claude Money Banking Integration:</strong> Anthropic prepared direct consumer banking integrations for Claude.</li>
-  <li><strong>OpenAI Glass Imaging Acquisition:</strong> OpenAI acquired camera startup Glass Imaging to bolster its optical hardware capabilities.</li>
-  <li><strong>AI Safety Legislative Push:</strong> Prominent tech leaders initiated lobbying campaigns demanding formal regulatory safety standards.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• iOS 27 Siri Delegation Framework: Apple engineered an unannounced architectural framework allowing Siri to delegate tasks across AI models.
-• Claude Money Banking Integration: Anthropic prepared direct consumer banking integrations for Claude.
-• OpenAI Glass Imaging Acquisition: OpenAI acquired camera startup Glass Imaging to bolster its optical hardware capabilities.
-• AI Safety Legislative Push: Prominent tech leaders initiated lobbying campaigns demanding formal regulatory safety standards.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260916_tldr_3.mp3" length="2335990" type="audio/mpeg"/>
-      <guid isPermaLink="false">d887b33a371b7d70ba1d5311722626f4</guid>
-      <itunes:duration>146</itunes:duration>
-    </item>
-      <item>
       <title>git push --force: Autonomous Agents Get Live Credit Cards (RIP Company Budget)</title>
       <pubDate>Thu, 17 Sep 2026 06:18:07 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
@@ -708,6 +677,37 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261015_tldr_3.mp3" length="2756086" type="audio/mpeg"/>
       <guid isPermaLink="false">9eec9ca255a128f33a61903fc4db91ac</guid>
       <itunes:duration>172</itunes:duration>
+    </item>
+      <item>
+      <title>strace -p agent: Anthropic Instruments Claude (Dashboards Scream in OTLP)</title>
+      <pubDate>Fri, 16 Oct 2026 06:19:08 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• Anthropic Adds OpenTelemetry to Claude: Claude Managed Agents and SDKs now support standardized OTLP tracing to monitor tool calls and execution loops.
+• Google Research Unveils Harness Squared: A new architecture explores recursive self-improvement by mutating prompts, tools, and memory orchestration rather than model weights.
+• Rise of Dynamic Model Routers: AI infrastructure stacks are shifting to dynamic routers across open-weight specialists to control token spend and frontier model reliance.
+• The Multi-Agent Velocity Bottleneck: High-speed automated code generation is recreating the Mythical Man-Month by shifting development drag entirely to code review and verification.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Anthropic Adds OpenTelemetry to Claude:</strong> Claude Managed Agents and SDKs now support standardized OTLP tracing to monitor tool calls and execution loops.</li>
+  <li><strong>Google Research Unveils Harness Squared:</strong> A new architecture explores recursive self-improvement by mutating prompts, tools, and memory orchestration rather than model weights.</li>
+  <li><strong>Rise of Dynamic Model Routers:</strong> AI infrastructure stacks are shifting to dynamic routers across open-weight specialists to control token spend and frontier model reliance.</li>
+  <li><strong>The Multi-Agent Velocity Bottleneck:</strong> High-speed automated code generation is recreating the Mythical Man-Month by shifting development drag entirely to code review and verification.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Anthropic Adds OpenTelemetry to Claude: Claude Managed Agents and SDKs now support standardized OTLP tracing to monitor tool calls and execution loops.
+• Google Research Unveils Harness Squared: A new architecture explores recursive self-improvement by mutating prompts, tools, and memory orchestration rather than model weights.
+• Rise of Dynamic Model Routers: AI infrastructure stacks are shifting to dynamic routers across open-weight specialists to control token spend and frontier model reliance.
+• The Multi-Agent Velocity Bottleneck: High-speed automated code generation is recreating the Mythical Man-Month by shifting development drag entirely to code review and verification.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261016_tldr_3.mp3" length="2762230" type="audio/mpeg"/>
+      <guid isPermaLink="false">eb05bd653a09ae93c81828d944918adc</guid>
+      <itunes:duration>173</itunes:duration>
     </item>
   </channel>
 </rss>
