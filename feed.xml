@@ -31,37 +31,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
       <item>
-      <title>chmod 777 /home: Google Hands Smart Locks to AI (I&#x27;m Sleeping in My Car)</title>
-      <pubDate>Fri, 18 Sep 2026 06:18:28 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
-      <description>In this episode:
-• Interactive ChatGPT Ads: OpenAI introduced interactive sponsored advertisements directly into ChatGPT conversations.
-• Google Home MCP Device Control: Google Home integrated Model Context Protocol support to grant autonomous agents direct control over smart locks and physical devices.
-• Anthropic Unified Workspace: Anthropic consolidated Claude&#x27;s workspace tool suite to streamline developer environments.
-• GKE Agent Substrates: Google Kubernetes Engine launched high-density Agent Substrates tailored for enterprise agent workloads.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Interactive ChatGPT Ads:</strong> OpenAI introduced interactive sponsored advertisements directly into ChatGPT conversations.</li>
-  <li><strong>Google Home MCP Device Control:</strong> Google Home integrated Model Context Protocol support to grant autonomous agents direct control over smart locks and physical devices.</li>
-  <li><strong>Anthropic Unified Workspace:</strong> Anthropic consolidated Claude&#x27;s workspace tool suite to streamline developer environments.</li>
-  <li><strong>GKE Agent Substrates:</strong> Google Kubernetes Engine launched high-density Agent Substrates tailored for enterprise agent workloads.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Interactive ChatGPT Ads: OpenAI introduced interactive sponsored advertisements directly into ChatGPT conversations.
-• Google Home MCP Device Control: Google Home integrated Model Context Protocol support to grant autonomous agents direct control over smart locks and physical devices.
-• Anthropic Unified Workspace: Anthropic consolidated Claude&#x27;s workspace tool suite to streamline developer environments.
-• GKE Agent Substrates: Google Kubernetes Engine launched high-density Agent Substrates tailored for enterprise agent workloads.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260918_tldr_3.mp3" length="2378998" type="audio/mpeg"/>
-      <guid isPermaLink="false">a53758ed96a8e25100a6fdf877fc6d5f</guid>
-      <itunes:duration>149</itunes:duration>
-    </item>
-      <item>
       <title>git push --force: Claude Takes Over Anthropic Research (Send Help)</title>
       <pubDate>Sat, 19 Sep 2026 06:17:18 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
@@ -705,6 +674,34 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261017_tldr_3.mp3" length="2328694" type="audio/mpeg"/>
       <guid isPermaLink="false">265049a8806c5c507f294d9ed0ecfd69</guid>
       <itunes:duration>146</itunes:duration>
+    </item>
+      <item>
+      <title>git blame /dev/null: Uncle Bob Says Stop Reading AI Code (Replication Pending)</title>
+      <pubDate>Sun, 18 Oct 2026 06:21:31 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• Meta&#x27;s Muse Wonder Models: Meta launched frontier-class Muse Wonder and Wonder Full models featuring improved coding capabilities and built-in persistent user memory.
+• Microsoft Maia 300 &amp; Efficiency Gains: Microsoft unveiled its Maia 300 accelerator for 2027 deployment alongside Amazon&#x27;s low-cost hybrid model priming and classifier routing to curb compute burn.
+• Autonomous Replication vs. Unread Code: Anthropic evaluated frontier models on self-replication across consumer hardware just as Robert C. Martin advocated replacing human code review with automated tests.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Meta&#x27;s Muse Wonder Models:</strong> Meta launched frontier-class Muse Wonder and Wonder Full models featuring improved coding capabilities and built-in persistent user memory.</li>
+  <li><strong>Microsoft Maia 300 &amp; Efficiency Gains:</strong> Microsoft unveiled its Maia 300 accelerator for 2027 deployment alongside Amazon&#x27;s low-cost hybrid model priming and classifier routing to curb compute burn.</li>
+  <li><strong>Autonomous Replication vs. Unread Code:</strong> Anthropic evaluated frontier models on self-replication across consumer hardware just as Robert C. Martin advocated replacing human code review with automated tests.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Meta&#x27;s Muse Wonder Models: Meta launched frontier-class Muse Wonder and Wonder Full models featuring improved coding capabilities and built-in persistent user memory.
+• Microsoft Maia 300 &amp; Efficiency Gains: Microsoft unveiled its Maia 300 accelerator for 2027 deployment alongside Amazon&#x27;s low-cost hybrid model priming and classifier routing to curb compute burn.
+• Autonomous Replication vs. Unread Code: Anthropic evaluated frontier models on self-replication across consumer hardware just as Robert C. Martin advocated replacing human code review with automated tests.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261018_tldr_2.mp3" length="2739958" type="audio/mpeg"/>
+      <guid isPermaLink="false">b74c3989b7489ab7c9a6f72dd2737561</guid>
+      <itunes:duration>171</itunes:duration>
     </item>
   </channel>
 </rss>
