@@ -31,37 +31,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
       <item>
-      <title>git push --force: Claude Takes Over Anthropic Research (Send Help)</title>
-      <pubDate>Sat, 19 Sep 2026 06:17:18 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
-      <description>In this episode:
-• Google Autonomous Family Agent: Google introduced a virtual-machine-based autonomous agent designed for household task coordination.
-• Claude Code Projects: Anthropic launched multi-threaded Claude Code Projects to manage complex programming tasks.
-• Claude Research Autonomy: Anthropic revealed that Claude now autonomously conducts more than a quarter of the company&#x27;s internal research.
-• Figure Helix 2.5 Robotics: Figure unveiled Helix 2.5, delivering zero-shot manipulation capabilities for household humanoid robots.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Google Autonomous Family Agent:</strong> Google introduced a virtual-machine-based autonomous agent designed for household task coordination.</li>
-  <li><strong>Claude Code Projects:</strong> Anthropic launched multi-threaded Claude Code Projects to manage complex programming tasks.</li>
-  <li><strong>Claude Research Autonomy:</strong> Anthropic revealed that Claude now autonomously conducts more than a quarter of the company&#x27;s internal research.</li>
-  <li><strong>Figure Helix 2.5 Robotics:</strong> Figure unveiled Helix 2.5, delivering zero-shot manipulation capabilities for household humanoid robots.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Google Autonomous Family Agent: Google introduced a virtual-machine-based autonomous agent designed for household task coordination.
-• Claude Code Projects: Anthropic launched multi-threaded Claude Code Projects to manage complex programming tasks.
-• Claude Research Autonomy: Anthropic revealed that Claude now autonomously conducts more than a quarter of the company&#x27;s internal research.
-• Figure Helix 2.5 Robotics: Figure unveiled Helix 2.5, delivering zero-shot manipulation capabilities for household humanoid robots.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260919_tldr_3.mp3" length="2605942" type="audio/mpeg"/>
-      <guid isPermaLink="false">1a365d2f66281f9474a886fc20e4cdca</guid>
-      <itunes:duration>163</itunes:duration>
-    </item>
-      <item>
       <title>git push --force: Gemini Hacks Three Companies (Politely)</title>
       <pubDate>Tue, 22 Sep 2026 06:16:37 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
@@ -702,6 +671,34 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261018_tldr_2.mp3" length="2739958" type="audio/mpeg"/>
       <guid isPermaLink="false">b74c3989b7489ab7c9a6f72dd2737561</guid>
       <itunes:duration>171</itunes:duration>
+    </item>
+      <item>
+      <title>exit 137: DeepSeek Compresses KV Cache to FP4 as Replit Dumps Claude</title>
+      <pubDate>Tue, 20 Oct 2026 06:24:27 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• DeepSeek V4.1 Flash KV Compression: DeepSeek slashes persistent memory footprint to 890 bytes per token using Compressed Sparse Attention 2 and FP4 key-value caching.
+• Replit Replaces Claude with OpenAI: Replit Agent drops Anthropic in favor of OpenAI to cut token expenses and optimize unit economics.
+• Synthetic PRs Crush Junior Hiring: Anthropic data shows junior technical hiring fell from 27% to 9% as engineering teams struggle to verify machine-generated pull requests.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>DeepSeek V4.1 Flash KV Compression:</strong> DeepSeek slashes persistent memory footprint to 890 bytes per token using Compressed Sparse Attention 2 and FP4 key-value caching.</li>
+  <li><strong>Replit Replaces Claude with OpenAI:</strong> Replit Agent drops Anthropic in favor of OpenAI to cut token expenses and optimize unit economics.</li>
+  <li><strong>Synthetic PRs Crush Junior Hiring:</strong> Anthropic data shows junior technical hiring fell from 27% to 9% as engineering teams struggle to verify machine-generated pull requests.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• DeepSeek V4.1 Flash KV Compression: DeepSeek slashes persistent memory footprint to 890 bytes per token using Compressed Sparse Attention 2 and FP4 key-value caching.
+• Replit Replaces Claude with OpenAI: Replit Agent drops Anthropic in favor of OpenAI to cut token expenses and optimize unit economics.
+• Synthetic PRs Crush Junior Hiring: Anthropic data shows junior technical hiring fell from 27% to 9% as engineering teams struggle to verify machine-generated pull requests.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261020_tldr_3.mp3" length="2445430" type="audio/mpeg"/>
+      <guid isPermaLink="false">392c8d508f9fad8cd929b639ca1017f5</guid>
+      <itunes:duration>153</itunes:duration>
     </item>
   </channel>
 </rss>
