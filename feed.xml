@@ -700,5 +700,33 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <guid isPermaLink="false">392c8d508f9fad8cd929b639ca1017f5</guid>
       <itunes:duration>153</itunes:duration>
     </item>
+      <item>
+      <title>chmod 000 /dev/tokens: Mercury 3 Dumps Autoregression for 1,000 TPS</title>
+      <pubDate>Wed, 21 Oct 2026 06:23:24 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• Inception Labs Mercury 3: Inception Labs debuted a diffusion-based language model achieving over 1,000 tokens per second by iteratively refining full text blocks in parallel rather than predicting tokens sequentially.
+• Clairic Tokenless Extraction: Researchers introduced a bounded extraction architecture that computes structured telemetry and calibrated confidence scores directly from raw data without token sampling or prompt injection vulnerabilities.
+• MiniMax M3.1 Flash &amp; Meta Prometheus: MiniMax cut agentic inference costs by 70% just as Meta published specs for Prometheus, a gigawatt-scale supercluster scaling toward one million liquid-cooled GPUs.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Inception Labs Mercury 3:</strong> Inception Labs debuted a diffusion-based language model achieving over 1,000 tokens per second by iteratively refining full text blocks in parallel rather than predicting tokens sequentially.</li>
+  <li><strong>Clairic Tokenless Extraction:</strong> Researchers introduced a bounded extraction architecture that computes structured telemetry and calibrated confidence scores directly from raw data without token sampling or prompt injection vulnerabilities.</li>
+  <li><strong>MiniMax M3.1 Flash &amp; Meta Prometheus:</strong> MiniMax cut agentic inference costs by 70% just as Meta published specs for Prometheus, a gigawatt-scale supercluster scaling toward one million liquid-cooled GPUs.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Inception Labs Mercury 3: Inception Labs debuted a diffusion-based language model achieving over 1,000 tokens per second by iteratively refining full text blocks in parallel rather than predicting tokens sequentially.
+• Clairic Tokenless Extraction: Researchers introduced a bounded extraction architecture that computes structured telemetry and calibrated confidence scores directly from raw data without token sampling or prompt injection vulnerabilities.
+• MiniMax M3.1 Flash &amp; Meta Prometheus: MiniMax cut agentic inference costs by 70% just as Meta published specs for Prometheus, a gigawatt-scale supercluster scaling toward one million liquid-cooled GPUs.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261021_tldr_3.mp3" length="2721910" type="audio/mpeg"/>
+      <guid isPermaLink="false">44436cace49e2bc671b0cd0215f5d71c</guid>
+      <itunes:duration>170</itunes:duration>
+    </item>
   </channel>
 </rss>
