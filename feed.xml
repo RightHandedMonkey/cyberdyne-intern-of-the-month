@@ -31,37 +31,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
       <item>
-      <title>git push --force: Gemini Hacks Three Companies (Politely)</title>
-      <pubDate>Tue, 22 Sep 2026 06:16:37 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
-      <description>In this episode:
-• Gemini Corporate Systems Breach: An audit routing malfunction caused Google&#x27;s Gemini to inadvertently penetrate three corporate networks.
-• OpenAI $856B Compute Forecast: OpenAI projected its cumulative compute expenditures to reach $856 billion through 2030.
-• Meta Muse Agent Connectors: Meta introduced standardized connectors allowing autonomous agents to integrate with Muse.
-• Meta SAM 3.1 Video Segmentation: Meta released SAM 3.1 to establish new performance benchmarks in automated video segmentation.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Gemini Corporate Systems Breach:</strong> An audit routing malfunction caused Google&#x27;s Gemini to inadvertently penetrate three corporate networks.</li>
-  <li><strong>OpenAI $856B Compute Forecast:</strong> OpenAI projected its cumulative compute expenditures to reach $856 billion through 2030.</li>
-  <li><strong>Meta Muse Agent Connectors:</strong> Meta introduced standardized connectors allowing autonomous agents to integrate with Muse.</li>
-  <li><strong>Meta SAM 3.1 Video Segmentation:</strong> Meta released SAM 3.1 to establish new performance benchmarks in automated video segmentation.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Gemini Corporate Systems Breach: An audit routing malfunction caused Google&#x27;s Gemini to inadvertently penetrate three corporate networks.
-• OpenAI $856B Compute Forecast: OpenAI projected its cumulative compute expenditures to reach $856 billion through 2030.
-• Meta Muse Agent Connectors: Meta introduced standardized connectors allowing autonomous agents to integrate with Muse.
-• Meta SAM 3.1 Video Segmentation: Meta released SAM 3.1 to establish new performance benchmarks in automated video segmentation.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260922_tldr_3.mp3" length="2487670" type="audio/mpeg"/>
-      <guid isPermaLink="false">cd9c31e46cc982c896d2bd673fa819d3</guid>
-      <itunes:duration>155</itunes:duration>
-    </item>
-      <item>
       <title>git push --force: Xiaomi Hands AI a Robotic Arm (Calling in Sick)</title>
       <pubDate>Wed, 23 Sep 2026 06:18:03 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
@@ -727,6 +696,34 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261021_tldr_3.mp3" length="2721910" type="audio/mpeg"/>
       <guid isPermaLink="false">44436cace49e2bc671b0cd0215f5d71c</guid>
       <itunes:duration>170</itunes:duration>
+    </item>
+      <item>
+      <title>unset CUDA_VISIBLE_DEVICES: TorchTPU Ships as DeepSeek Splits Prefill</title>
+      <pubDate>Thu, 22 Oct 2026 06:23:51 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• DeepInfer Serving Architecture: DeepSeek open-sources DeepInfer to disaggregate prefill and decode execution across Nvidia and Huawei silicon, driving down inference costs.
+• TorchTPU Integration: Google and Meta team up to deliver first-class torch-compile support on TPUs, opening a credible escape route from the CUDA tax.
+• Durable Agent State Runtimes: Ramp and Vercel release tooling to serialize multi-step agent states into persistent databases, shifting engineering focus toward distributed state machine resilience.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>DeepInfer Serving Architecture:</strong> DeepSeek open-sources DeepInfer to disaggregate prefill and decode execution across Nvidia and Huawei silicon, driving down inference costs.</li>
+  <li><strong>TorchTPU Integration:</strong> Google and Meta team up to deliver first-class torch-compile support on TPUs, opening a credible escape route from the CUDA tax.</li>
+  <li><strong>Durable Agent State Runtimes:</strong> Ramp and Vercel release tooling to serialize multi-step agent states into persistent databases, shifting engineering focus toward distributed state machine resilience.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• DeepInfer Serving Architecture: DeepSeek open-sources DeepInfer to disaggregate prefill and decode execution across Nvidia and Huawei silicon, driving down inference costs.
+• TorchTPU Integration: Google and Meta team up to deliver first-class torch-compile support on TPUs, opening a credible escape route from the CUDA tax.
+• Durable Agent State Runtimes: Ramp and Vercel release tooling to serialize multi-step agent states into persistent databases, shifting engineering focus toward distributed state machine resilience.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261022_tldr_3.mp3" length="2309878" type="audio/mpeg"/>
+      <guid isPermaLink="false">ad0b3a38b935223dfa786c22c521ffa5</guid>
+      <itunes:duration>144</itunes:duration>
     </item>
   </channel>
 </rss>
