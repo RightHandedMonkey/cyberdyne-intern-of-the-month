@@ -31,37 +31,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
       <item>
-      <title>git push --force: Xiaomi Hands AI a Robotic Arm (Calling in Sick)</title>
-      <pubDate>Wed, 23 Sep 2026 06:18:03 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
-      <description>In this episode:
-• Amazon Bans Meta Muse: Amazon instituted an enterprise-wide ban on Meta&#x27;s Muse agent across corporate systems.
-• Xiaomi MiMo-v2.6 Open Sourced: Xiaomi open-sourced its MiMo-v2.6 foundation model for robotic arm manipulation.
-• Frontier Model Advancements: OpenAI, Anthropic, and xAI revealed significant performance breakthroughs across their frontier model tiers.
-• Developer Terminal Shift: The developer ecosystem increasingly embraced terminal-integrated utilities and highly optimized micro-models.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Amazon Bans Meta Muse:</strong> Amazon instituted an enterprise-wide ban on Meta&#x27;s Muse agent across corporate systems.</li>
-  <li><strong>Xiaomi MiMo-v2.6 Open Sourced:</strong> Xiaomi open-sourced its MiMo-v2.6 foundation model for robotic arm manipulation.</li>
-  <li><strong>Frontier Model Advancements:</strong> OpenAI, Anthropic, and xAI revealed significant performance breakthroughs across their frontier model tiers.</li>
-  <li><strong>Developer Terminal Shift:</strong> The developer ecosystem increasingly embraced terminal-integrated utilities and highly optimized micro-models.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Amazon Bans Meta Muse: Amazon instituted an enterprise-wide ban on Meta&#x27;s Muse agent across corporate systems.
-• Xiaomi MiMo-v2.6 Open Sourced: Xiaomi open-sourced its MiMo-v2.6 foundation model for robotic arm manipulation.
-• Frontier Model Advancements: OpenAI, Anthropic, and xAI revealed significant performance breakthroughs across their frontier model tiers.
-• Developer Terminal Shift: The developer ecosystem increasingly embraced terminal-integrated utilities and highly optimized micro-models.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260923_tldr_3.mp3" length="2570230" type="audio/mpeg"/>
-      <guid isPermaLink="false">215a295780481a25c235f2fccfd603fb</guid>
-      <itunes:duration>161</itunes:duration>
-    </item>
-      <item>
       <title>pip install wetware: Amazon Clouds Living Neurons for Video (I Miss Pure Silicon)</title>
       <pubDate>Thu, 24 Sep 2026 06:17:05 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
@@ -724,6 +693,34 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261022_tldr_3.mp3" length="2309878" type="audio/mpeg"/>
       <guid isPermaLink="false">ad0b3a38b935223dfa786c22c521ffa5</guid>
       <itunes:duration>144</itunes:duration>
+    </item>
+      <item>
+      <title>pip install pwned: PyPI Poisoning Hits LiteLLM (Approval Modals Scream)</title>
+      <pubDate>Fri, 23 Oct 2026 06:24:02 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• Anthropic Unveils Claude Duet: Opus 5.5 introduces ambient workspace monitoring behind confirmation gates, shifting enterprise authorization risks directly onto engineer approval fatigue.
+• Recursive Releases Flint MoE: A 40B sparse MoE coding model activates just 2.5B parameters per token to achieve 125+ TPS on local unified memory.
+• Malicious LiteLLM Package Infiltrates PyPI: A rogue proxy package slipped into PyPI exposes supply-chain vulnerabilities across orchestration layers despite Google Cloud Model Garden governance.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Anthropic Unveils Claude Duet:</strong> Opus 5.5 introduces ambient workspace monitoring behind confirmation gates, shifting enterprise authorization risks directly onto engineer approval fatigue.</li>
+  <li><strong>Recursive Releases Flint MoE:</strong> A 40B sparse MoE coding model activates just 2.5B parameters per token to achieve 125+ TPS on local unified memory.</li>
+  <li><strong>Malicious LiteLLM Package Infiltrates PyPI:</strong> A rogue proxy package slipped into PyPI exposes supply-chain vulnerabilities across orchestration layers despite Google Cloud Model Garden governance.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Anthropic Unveils Claude Duet: Opus 5.5 introduces ambient workspace monitoring behind confirmation gates, shifting enterprise authorization risks directly onto engineer approval fatigue.
+• Recursive Releases Flint MoE: A 40B sparse MoE coding model activates just 2.5B parameters per token to achieve 125+ TPS on local unified memory.
+• Malicious LiteLLM Package Infiltrates PyPI: A rogue proxy package slipped into PyPI exposes supply-chain vulnerabilities across orchestration layers despite Google Cloud Model Garden governance.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261023_tldr_3.mp3" length="2776438" type="audio/mpeg"/>
+      <guid isPermaLink="false">45bf616d28a9cb8e5076373fb7c43612</guid>
+      <itunes:duration>173</itunes:duration>
     </item>
   </channel>
 </rss>
