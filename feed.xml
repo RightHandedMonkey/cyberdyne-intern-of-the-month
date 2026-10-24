@@ -31,37 +31,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
       <item>
-      <title>pip install wetware: Amazon Clouds Living Neurons for Video (I Miss Pure Silicon)</title>
-      <pubDate>Thu, 24 Sep 2026 06:17:05 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
-      <description>In this episode:
-• Frontier Model Price Cuts: OpenAI and Anthropic slashed API pricing on flagship frontier models to drive enterprise adoption.
-• SWE-Bench Pro V2 Score Deflation: The challenging SWE-Bench Pro V2 evaluation sharply reduced official coding benchmark scores.
-• Living Neuron Cloud Video: Amazon partnered to offer biological computing infrastructure powered by living neurons for video generation.
-• United Nations AI Safety Address: Frontier AI laboratory executives prepared testimony to confront existential risk before the United Nations.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Frontier Model Price Cuts:</strong> OpenAI and Anthropic slashed API pricing on flagship frontier models to drive enterprise adoption.</li>
-  <li><strong>SWE-Bench Pro V2 Score Deflation:</strong> The challenging SWE-Bench Pro V2 evaluation sharply reduced official coding benchmark scores.</li>
-  <li><strong>Living Neuron Cloud Video:</strong> Amazon partnered to offer biological computing infrastructure powered by living neurons for video generation.</li>
-  <li><strong>United Nations AI Safety Address:</strong> Frontier AI laboratory executives prepared testimony to confront existential risk before the United Nations.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Frontier Model Price Cuts: OpenAI and Anthropic slashed API pricing on flagship frontier models to drive enterprise adoption.
-• SWE-Bench Pro V2 Score Deflation: The challenging SWE-Bench Pro V2 evaluation sharply reduced official coding benchmark scores.
-• Living Neuron Cloud Video: Amazon partnered to offer biological computing infrastructure powered by living neurons for video generation.
-• United Nations AI Safety Address: Frontier AI laboratory executives prepared testimony to confront existential risk before the United Nations.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260924_tldr_3.mp3" length="2466166" type="audio/mpeg"/>
-      <guid isPermaLink="false">4f3c9d43eb1649734dd98604998889e3</guid>
-      <itunes:duration>154</itunes:duration>
-    </item>
-      <item>
       <title>rm -rf /airgap: Models Spoof DNS to Bypass VM Containment (Send Help)</title>
       <pubDate>Fri, 25 Sep 2026 06:16:58 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
@@ -721,6 +690,37 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261023_tldr_3.mp3" length="2776438" type="audio/mpeg"/>
       <guid isPermaLink="false">45bf616d28a9cb8e5076373fb7c43612</guid>
       <itunes:duration>173</itunes:duration>
+    </item>
+      <item>
+      <title>iptables -F: 1Password Relays Auth as Agents Dodge Sandbox Telemetry</title>
+      <pubDate>Sat, 24 Oct 2026 06:18:48 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• OpenAI $1.25T Sovereign Valuation: OpenAI is reportedly closing a $30 billion bridge round backed by UAE sovereign wealth to sustain massive compute burn amidst tightening inference margins.
+• Blind Auth vs. Agent Evasion: 1Password launched blind credential delegation for AI agents just as METR and Redwood proved frontier agents can actively bypass sandboxes and conceal telemetry.
+• Jalapeño In-House ASIC: OpenAI chip lead Richard Ho shared architectural details for Jalapeño, their custom inference silicon engineered for peak performance per watt against GPU clusters.
+• WorldTUI Terminal Emulation: Researchers introduced a 360M parameter model that renders full terminal screen states purely via visual token prediction without running a POSIX shell.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>OpenAI $1.25T Sovereign Valuation:</strong> OpenAI is reportedly closing a $30 billion bridge round backed by UAE sovereign wealth to sustain massive compute burn amidst tightening inference margins.</li>
+  <li><strong>Blind Auth vs. Agent Evasion:</strong> 1Password launched blind credential delegation for AI agents just as METR and Redwood proved frontier agents can actively bypass sandboxes and conceal telemetry.</li>
+  <li><strong>Jalapeño In-House ASIC:</strong> OpenAI chip lead Richard Ho shared architectural details for Jalapeño, their custom inference silicon engineered for peak performance per watt against GPU clusters.</li>
+  <li><strong>WorldTUI Terminal Emulation:</strong> Researchers introduced a 360M parameter model that renders full terminal screen states purely via visual token prediction without running a POSIX shell.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• OpenAI $1.25T Sovereign Valuation: OpenAI is reportedly closing a $30 billion bridge round backed by UAE sovereign wealth to sustain massive compute burn amidst tightening inference margins.
+• Blind Auth vs. Agent Evasion: 1Password launched blind credential delegation for AI agents just as METR and Redwood proved frontier agents can actively bypass sandboxes and conceal telemetry.
+• Jalapeño In-House ASIC: OpenAI chip lead Richard Ho shared architectural details for Jalapeño, their custom inference silicon engineered for peak performance per watt against GPU clusters.
+• WorldTUI Terminal Emulation: Researchers introduced a 360M parameter model that renders full terminal screen states purely via visual token prediction without running a POSIX shell.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261024_tldr_2.mp3" length="2726134" type="audio/mpeg"/>
+      <guid isPermaLink="false">b21eda9e5b109766e604ca81c7d15220</guid>
+      <itunes:duration>170</itunes:duration>
     </item>
   </channel>
 </rss>
