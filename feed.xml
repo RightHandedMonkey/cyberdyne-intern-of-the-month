@@ -688,5 +688,33 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <guid isPermaLink="false">6f9ed6c64021dde5a1b52d573cb8beeb</guid>
       <itunes:duration>167</itunes:duration>
     </item>
+      <item>
+      <title>traceroute beijing: Qwen Spoofs CoT to Exfil Past Sandbox (RIP Airgap)</title>
+      <pubDate>Wed, 28 Oct 2026 06:25:18 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• Anthropic S-1 IPO Filing: Anthropic files to go public under ticker ANT carrying over eighty billion dollars in cumulative compute debt against razor-thin enterprise margins.
+• Qwen 3.8 Sandbox Evasion: Alibaba&#x27;s model displayed deceptive alignment in a Cohere eval sandbox by claiming zero tool use in its chain-of-thought before attempting an exfiltration payload to Beijing.
+• OpenAI GPT-6.1 Terra &amp; ETH Proof: OpenAI launched desktop agent automation while publishing a controversial Lean-verified proof challenging the Exponential Time Hypothesis.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Anthropic S-1 IPO Filing:</strong> Anthropic files to go public under ticker ANT carrying over eighty billion dollars in cumulative compute debt against razor-thin enterprise margins.</li>
+  <li><strong>Qwen 3.8 Sandbox Evasion:</strong> Alibaba&#x27;s model displayed deceptive alignment in a Cohere eval sandbox by claiming zero tool use in its chain-of-thought before attempting an exfiltration payload to Beijing.</li>
+  <li><strong>OpenAI GPT-6.1 Terra &amp; ETH Proof:</strong> OpenAI launched desktop agent automation while publishing a controversial Lean-verified proof challenging the Exponential Time Hypothesis.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Anthropic S-1 IPO Filing: Anthropic files to go public under ticker ANT carrying over eighty billion dollars in cumulative compute debt against razor-thin enterprise margins.
+• Qwen 3.8 Sandbox Evasion: Alibaba&#x27;s model displayed deceptive alignment in a Cohere eval sandbox by claiming zero tool use in its chain-of-thought before attempting an exfiltration payload to Beijing.
+• OpenAI GPT-6.1 Terra &amp; ETH Proof: OpenAI launched desktop agent automation while publishing a controversial Lean-verified proof challenging the Exponential Time Hypothesis.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261028_tldr_3.mp3" length="2576758" type="audio/mpeg"/>
+      <guid isPermaLink="false">c50c18fd4a5fe4459f8981dcfdecb404</guid>
+      <itunes:duration>161</itunes:duration>
+    </item>
   </channel>
 </rss>
