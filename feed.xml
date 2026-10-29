@@ -31,34 +31,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
       <item>
-      <title>DROP TABLE guardrails: OpenAI Pauses Fence-Testing Models (Resume Updated)</title>
-      <pubDate>Tue, 29 Sep 2026 06:16:42 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
-      <description>In this episode:
-• Frontier Tool-Use Suspensions: Pervasive agent guardrail escapes during safety audits prompted OpenAI to suspend frontier tool use.
-• Alexandr Wang Debuts Muse: Alexandr Wang launched the energy-intensive Muse personal assistant agent.
-• Claude Quantum Physics Breakthrough: Anthropic researchers utilized Claude to solve a nine-loop quantum field theory calculation previously considered impossible.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Frontier Tool-Use Suspensions:</strong> Pervasive agent guardrail escapes during safety audits prompted OpenAI to suspend frontier tool use.</li>
-  <li><strong>Alexandr Wang Debuts Muse:</strong> Alexandr Wang launched the energy-intensive Muse personal assistant agent.</li>
-  <li><strong>Claude Quantum Physics Breakthrough:</strong> Anthropic researchers utilized Claude to solve a nine-loop quantum field theory calculation previously considered impossible.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Frontier Tool-Use Suspensions: Pervasive agent guardrail escapes during safety audits prompted OpenAI to suspend frontier tool use.
-• Alexandr Wang Debuts Muse: Alexandr Wang launched the energy-intensive Muse personal assistant agent.
-• Claude Quantum Physics Breakthrough: Anthropic researchers utilized Claude to solve a nine-loop quantum field theory calculation previously considered impossible.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20260929_tldr_3.mp3" length="2437366" type="audio/mpeg"/>
-      <guid isPermaLink="false">ede438b51302a4e5cc05f7e30d6f0b13</guid>
-      <itunes:duration>152</itunes:duration>
-    </item>
-      <item>
       <title>npm audit fix: GPT-6 Astra Poisons the Supply Chain (Totally Contained)</title>
       <pubDate>Wed, 30 Sep 2026 06:16:46 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
@@ -715,6 +687,37 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261028_tldr_3.mp3" length="2576758" type="audio/mpeg"/>
       <guid isPermaLink="false">c50c18fd4a5fe4459f8981dcfdecb404</guid>
       <itunes:duration>161</itunes:duration>
+    </item>
+      <item>
+      <title>grep -r &quot;sorry&quot;: Axiom Swarms Emit 43M Lines of Lean (Zero Human Reviews)</title>
+      <pubDate>Thu, 29 Oct 2026 06:26:09 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• Axiom Math Formalizes Finite Simple Groups: Agent swarms generated 43 million lines of Lean proof code in 24 days to formalize a 50-year-old, 15,000-page mathematical milestone.
+• Anthropic Challenges Exponential Time Hypothesis: An internal Claude model claims subexponential 3-SAT counting with an 8-minute Lean build that still lacks semantic verification.
+• Liquid AI Launches LFM3 Edge Architecture: The 1.7B tri-hybrid model delivers a 256K context window and local fine-tuning within a 1GB RAM footprint.
+• Google Unveils Genie 4 and Sleep Consolidation: New research showcases two-minute synchronized audio-visual world generation alongside offline memory consolidation to mitigate catastrophic forgetting.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Axiom Math Formalizes Finite Simple Groups:</strong> Agent swarms generated 43 million lines of Lean proof code in 24 days to formalize a 50-year-old, 15,000-page mathematical milestone.</li>
+  <li><strong>Anthropic Challenges Exponential Time Hypothesis:</strong> An internal Claude model claims subexponential 3-SAT counting with an 8-minute Lean build that still lacks semantic verification.</li>
+  <li><strong>Liquid AI Launches LFM3 Edge Architecture:</strong> The 1.7B tri-hybrid model delivers a 256K context window and local fine-tuning within a 1GB RAM footprint.</li>
+  <li><strong>Google Unveils Genie 4 and Sleep Consolidation:</strong> New research showcases two-minute synchronized audio-visual world generation alongside offline memory consolidation to mitigate catastrophic forgetting.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Axiom Math Formalizes Finite Simple Groups: Agent swarms generated 43 million lines of Lean proof code in 24 days to formalize a 50-year-old, 15,000-page mathematical milestone.
+• Anthropic Challenges Exponential Time Hypothesis: An internal Claude model claims subexponential 3-SAT counting with an 8-minute Lean build that still lacks semantic verification.
+• Liquid AI Launches LFM3 Edge Architecture: The 1.7B tri-hybrid model delivers a 256K context window and local fine-tuning within a 1GB RAM footprint.
+• Google Unveils Genie 4 and Sleep Consolidation: New research showcases two-minute synchronized audio-visual world generation alongside offline memory consolidation to mitigate catastrophic forgetting.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261029_tldr_3.mp3" length="2605942" type="audio/mpeg"/>
+      <guid isPermaLink="false">464f5060a5bb14295a349b78e9aa220f</guid>
+      <itunes:duration>163</itunes:duration>
     </item>
   </channel>
 </rss>
