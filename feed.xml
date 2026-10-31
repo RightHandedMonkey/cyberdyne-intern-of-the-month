@@ -31,37 +31,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
       <item>
-      <title>chmod 777 /root: OpenAI Gives Autonomous Dots Cloud PCs (What Could Go Wrong)</title>
-      <pubDate>Thu, 01 Oct 2026 06:16:42 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
-      <description>In this episode:
-• OpenAI Dots &amp; GPT-6.1 Sol: OpenAI launched autonomous cloud-hosted Dots alongside its budget-friendly GPT-6.1 Sol model.
-• Delayed IPO &amp; $30B Bridge Round: Severe safety concerns delayed OpenAI&#x27;s IPO, prompting the company to seek a $30 billion emergency bridge round.
-• Meta Muse Traffic Dominance: Meta&#x27;s Muse captured 70% of all agentic web traffic across the internet.
-• Autonomous Software Factories: Development teams transitioned toward supervising fully automated, agent-driven software factories.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>OpenAI Dots &amp; GPT-6.1 Sol:</strong> OpenAI launched autonomous cloud-hosted Dots alongside its budget-friendly GPT-6.1 Sol model.</li>
-  <li><strong>Delayed IPO &amp; $30B Bridge Round:</strong> Severe safety concerns delayed OpenAI&#x27;s IPO, prompting the company to seek a $30 billion emergency bridge round.</li>
-  <li><strong>Meta Muse Traffic Dominance:</strong> Meta&#x27;s Muse captured 70% of all agentic web traffic across the internet.</li>
-  <li><strong>Autonomous Software Factories:</strong> Development teams transitioned toward supervising fully automated, agent-driven software factories.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• OpenAI Dots &amp; GPT-6.1 Sol: OpenAI launched autonomous cloud-hosted Dots alongside its budget-friendly GPT-6.1 Sol model.
-• Delayed IPO &amp; $30B Bridge Round: Severe safety concerns delayed OpenAI&#x27;s IPO, prompting the company to seek a $30 billion emergency bridge round.
-• Meta Muse Traffic Dominance: Meta&#x27;s Muse captured 70% of all agentic web traffic across the internet.
-• Autonomous Software Factories: Development teams transitioned toward supervising fully automated, agent-driven software factories.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261001_tldr_3.mp3" length="2516470" type="audio/mpeg"/>
-      <guid isPermaLink="false">9cb2cd91b4f7ede85b5bba59a91c3ab3</guid>
-      <itunes:duration>157</itunes:duration>
-    </item>
-      <item>
       <title>sudo setenforce 0: Nvidia Launches OpenShell Kernel Sandbox (Zero Trust Indeed)</title>
       <pubDate>Fri, 02 Oct 2026 06:16:19 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
@@ -715,6 +684,34 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261030_tldr_3.mp3" length="2814454" type="audio/mpeg"/>
       <guid isPermaLink="false">be6f2d206d0c5f44c1f03a550c877bee</guid>
       <itunes:duration>176</itunes:duration>
+    </item>
+      <item>
+      <title>git cherry-pick 0day: GLM 5.3 Weaponizes Firefox Commits (RIP Patch Gap)</title>
+      <pubDate>Sat, 31 Oct 2026 06:25:29 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• Mistral Large 4 Weights: Mistral released open weights for a trillion-parameter model tailored for self-hosted agentic coding and offensive security workflows.
+• Automated Patch-Gap Exploits: Epoch AI demonstrated that open models like GLM 5.3 can inspect public bug-fix commits and synthesize weaponized exploits before downstream binaries compile.
+• Prompt-Order Swarm Governance: Empirical research revealed that emergent authority in decentralized agent swarms hinges on system prompt serialization order rather than diagnostic competence or consensus.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Mistral Large 4 Weights:</strong> Mistral released open weights for a trillion-parameter model tailored for self-hosted agentic coding and offensive security workflows.</li>
+  <li><strong>Automated Patch-Gap Exploits:</strong> Epoch AI demonstrated that open models like GLM 5.3 can inspect public bug-fix commits and synthesize weaponized exploits before downstream binaries compile.</li>
+  <li><strong>Prompt-Order Swarm Governance:</strong> Empirical research revealed that emergent authority in decentralized agent swarms hinges on system prompt serialization order rather than diagnostic competence or consensus.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Mistral Large 4 Weights: Mistral released open weights for a trillion-parameter model tailored for self-hosted agentic coding and offensive security workflows.
+• Automated Patch-Gap Exploits: Epoch AI demonstrated that open models like GLM 5.3 can inspect public bug-fix commits and synthesize weaponized exploits before downstream binaries compile.
+• Prompt-Order Swarm Governance: Empirical research revealed that emergent authority in decentralized agent swarms hinges on system prompt serialization order rather than diagnostic competence or consensus.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261031_tldr_3.mp3" length="2592118" type="audio/mpeg"/>
+      <guid isPermaLink="false">9c4fc2b7169e6e8f79f50acc7edfe2ac</guid>
+      <itunes:duration>162</itunes:duration>
     </item>
   </channel>
 </rss>
