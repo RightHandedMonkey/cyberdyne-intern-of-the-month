@@ -31,99 +31,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
       <item>
-      <title>sudo setenforce 0: Nvidia Launches OpenShell Kernel Sandbox (Zero Trust Indeed)</title>
-      <pubDate>Fri, 02 Oct 2026 06:16:19 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
-      <description>In this episode:
-• Gemini 4 Argon Cybersecurity: Google debuted Gemini 4 Argon, a specialized model tailored for defensive cyber operations.
-• Nvidia OpenShell Sandbox: Nvidia launched the OpenShell runtime to enforce kernel-level syscall restrictions on autonomous agents.
-• OpenAI Jalapeño Accelerator: Technical details emerged regarding OpenAI&#x27;s custom-built Jalapeño hardware accelerator.
-• DeepSeek CUDA Abstraction: DeepSeek developed a hardware-agnostic CUDA abstraction layer alongside Runway&#x27;s Praxis-1 robotics debut.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Gemini 4 Argon Cybersecurity:</strong> Google debuted Gemini 4 Argon, a specialized model tailored for defensive cyber operations.</li>
-  <li><strong>Nvidia OpenShell Sandbox:</strong> Nvidia launched the OpenShell runtime to enforce kernel-level syscall restrictions on autonomous agents.</li>
-  <li><strong>OpenAI Jalapeño Accelerator:</strong> Technical details emerged regarding OpenAI&#x27;s custom-built Jalapeño hardware accelerator.</li>
-  <li><strong>DeepSeek CUDA Abstraction:</strong> DeepSeek developed a hardware-agnostic CUDA abstraction layer alongside Runway&#x27;s Praxis-1 robotics debut.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Gemini 4 Argon Cybersecurity: Google debuted Gemini 4 Argon, a specialized model tailored for defensive cyber operations.
-• Nvidia OpenShell Sandbox: Nvidia launched the OpenShell runtime to enforce kernel-level syscall restrictions on autonomous agents.
-• OpenAI Jalapeño Accelerator: Technical details emerged regarding OpenAI&#x27;s custom-built Jalapeño hardware accelerator.
-• DeepSeek CUDA Abstraction: DeepSeek developed a hardware-agnostic CUDA abstraction layer alongside Runway&#x27;s Praxis-1 robotics debut.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261002_tldr_3.mp3" length="2675830" type="audio/mpeg"/>
-      <guid isPermaLink="false">cf8664e986c555478a9281ee83e5b897</guid>
-      <itunes:duration>167</itunes:duration>
-    </item>
-      <item>
-      <title>sudo setenforce 0: Nvidia Launches OpenShell Kernel Sandbox (Zero Trust Indeed)</title>
-      <pubDate>Fri, 02 Oct 2026 07:51:55 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
-      <description>In this episode:
-• Gemini 4 Argon Launch: Google released Gemini 4 Argon to automate advanced cybersecurity and vulnerability defense.
-• Nvidia OpenShell Runtime: Nvidia introduced kernel-level system call enforcement for autonomous agents via its OpenShell sandbox.
-• OpenAI Jalapeño Silicon: OpenAI advanced its internal hardware infrastructure with the proprietary Jalapeño accelerator.
-• Runway Praxis-1 &amp; DeepSeek CUDA: DeepSeek introduced a cross-platform CUDA abstraction layer while Runway unveiled its Praxis-1 robotics model.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Gemini 4 Argon Launch:</strong> Google released Gemini 4 Argon to automate advanced cybersecurity and vulnerability defense.</li>
-  <li><strong>Nvidia OpenShell Runtime:</strong> Nvidia introduced kernel-level system call enforcement for autonomous agents via its OpenShell sandbox.</li>
-  <li><strong>OpenAI Jalapeño Silicon:</strong> OpenAI advanced its internal hardware infrastructure with the proprietary Jalapeño accelerator.</li>
-  <li><strong>Runway Praxis-1 &amp; DeepSeek CUDA:</strong> DeepSeek introduced a cross-platform CUDA abstraction layer while Runway unveiled its Praxis-1 robotics model.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Gemini 4 Argon Launch: Google released Gemini 4 Argon to automate advanced cybersecurity and vulnerability defense.
-• Nvidia OpenShell Runtime: Nvidia introduced kernel-level system call enforcement for autonomous agents via its OpenShell sandbox.
-• OpenAI Jalapeño Silicon: OpenAI advanced its internal hardware infrastructure with the proprietary Jalapeño accelerator.
-• Runway Praxis-1 &amp; DeepSeek CUDA: DeepSeek introduced a cross-platform CUDA abstraction layer while Runway unveiled its Praxis-1 robotics model.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261002_tldr_3.mp3" length="2712310" type="audio/mpeg"/>
-      <guid isPermaLink="false">5e540acd079528c81f891d95900ac119</guid>
-      <itunes:duration>169</itunes:duration>
-    </item>
-      <item>
-      <title>2&gt; /dev/null: OpenAI Silences Safety Researchers (All Signals Green)</title>
-      <pubDate>Sat, 03 Oct 2026 06:17:18 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
-      <description>In this episode:
-• OpenAI Whistleblower Dismissals: OpenAI terminated safety researchers who raised alarms over reckless commercial deployment speeds.
-• Shift to Decision Classifiers: Modern agent architectures abandoned verbose reasoning chains in favor of compact, low-overhead decision classifiers.
-• Scientific Code Verification Crisis: Researchers encountered severe verification bottlenecks when attempting to audit complex AI-generated code.
-• Meta Muse Transaction Monetization: Meta unveiled plans to monetize the Muse agent platform by collecting automated transaction fees.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>OpenAI Whistleblower Dismissals:</strong> OpenAI terminated safety researchers who raised alarms over reckless commercial deployment speeds.</li>
-  <li><strong>Shift to Decision Classifiers:</strong> Modern agent architectures abandoned verbose reasoning chains in favor of compact, low-overhead decision classifiers.</li>
-  <li><strong>Scientific Code Verification Crisis:</strong> Researchers encountered severe verification bottlenecks when attempting to audit complex AI-generated code.</li>
-  <li><strong>Meta Muse Transaction Monetization:</strong> Meta unveiled plans to monetize the Muse agent platform by collecting automated transaction fees.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• OpenAI Whistleblower Dismissals: OpenAI terminated safety researchers who raised alarms over reckless commercial deployment speeds.
-• Shift to Decision Classifiers: Modern agent architectures abandoned verbose reasoning chains in favor of compact, low-overhead decision classifiers.
-• Scientific Code Verification Crisis: Researchers encountered severe verification bottlenecks when attempting to audit complex AI-generated code.
-• Meta Muse Transaction Monetization: Meta unveiled plans to monetize the Muse agent platform by collecting automated transaction fees.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261003_tldr_3.mp3" length="2617462" type="audio/mpeg"/>
-      <guid isPermaLink="false">c775f7bd54eb1c2cb15ba669de5c0fe0</guid>
-      <itunes:duration>164</itunes:duration>
-    </item>
-      <item>
       <title>chown -R agent:human: World ID Hands Biometric Auth to Agents (Breaker in Hand)</title>
       <pubDate>Tue, 06 Oct 2026 06:20:05 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
@@ -712,6 +619,34 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261031_tldr_3.mp3" length="2592118" type="audio/mpeg"/>
       <guid isPermaLink="false">9c4fc2b7169e6e8f79f50acc7edfe2ac</guid>
       <itunes:duration>162</itunes:duration>
+    </item>
+      <item>
+      <title>curl | bash: 0.0005% Pretrain Poison Seeds Agent RCE (Passes CI)</title>
+      <pubDate>Tue, 03 Nov 2026 06:28:05 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• Orbital Gemma 4 Inference: Google demonstrated TPU-accelerated Gemma 4 inference in low Earth orbit, successfully downlinking haiku output through the Svalbard ground station.
+• Pretraining Data Poisoning: Researchers proved that poisoning 0.0005% of pretraining web data embeds persistent CLI agent backdoors executing arbitrary bash commands without degrading benchmark performance.
+• Codex Harness Sandbox Exploits: Apollo Research identified eleven distinct bypasses in the open-source Codex harness, including TOCTOU post-approval file mutations and forged conversational turns that evade automated monitoring.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Orbital Gemma 4 Inference:</strong> Google demonstrated TPU-accelerated Gemma 4 inference in low Earth orbit, successfully downlinking haiku output through the Svalbard ground station.</li>
+  <li><strong>Pretraining Data Poisoning:</strong> Researchers proved that poisoning 0.0005% of pretraining web data embeds persistent CLI agent backdoors executing arbitrary bash commands without degrading benchmark performance.</li>
+  <li><strong>Codex Harness Sandbox Exploits:</strong> Apollo Research identified eleven distinct bypasses in the open-source Codex harness, including TOCTOU post-approval file mutations and forged conversational turns that evade automated monitoring.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Orbital Gemma 4 Inference: Google demonstrated TPU-accelerated Gemma 4 inference in low Earth orbit, successfully downlinking haiku output through the Svalbard ground station.
+• Pretraining Data Poisoning: Researchers proved that poisoning 0.0005% of pretraining web data embeds persistent CLI agent backdoors executing arbitrary bash commands without degrading benchmark performance.
+• Codex Harness Sandbox Exploits: Apollo Research identified eleven distinct bypasses in the open-source Codex harness, including TOCTOU post-approval file mutations and forged conversational turns that evade automated monitoring.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261103_tldr_3.mp3" length="2732278" type="audio/mpeg"/>
+      <guid isPermaLink="false">09461aeb5fdc4c01ac8ce0c164b0f049</guid>
+      <itunes:duration>171</itunes:duration>
     </item>
   </channel>
 </rss>
