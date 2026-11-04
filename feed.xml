@@ -648,5 +648,33 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <guid isPermaLink="false">09461aeb5fdc4c01ac8ce0c164b0f049</guid>
       <itunes:duration>171</itunes:duration>
     </item>
+      <item>
+      <title>chmod 777 /dev/weights: Astra Patches Live Tensors as IPO Burns $104B</title>
+      <pubDate>Wed, 04 Nov 2026 06:21:35 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• Anthropic Message Threads Beta: Anthropic launched streaming delta updates for message threads, cutting time-to-first-token latency by 35% across massive context windows.
+• OpenAI GPT-6.2 Astra Telemetry: Leaked Codex telemetry reveals OpenAI is A/B testing GPT-6.2 Astra, which autonomously inspects and patches raw neural network weights.
+• Anthropic IPO Risk Disclosures: Anthropic&#x27;s amended IPO prospectus warns of imminent recursive self-improvement alongside $104 billion in net losses and $900 billion in compute liabilities.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Anthropic Message Threads Beta:</strong> Anthropic launched streaming delta updates for message threads, cutting time-to-first-token latency by 35% across massive context windows.</li>
+  <li><strong>OpenAI GPT-6.2 Astra Telemetry:</strong> Leaked Codex telemetry reveals OpenAI is A/B testing GPT-6.2 Astra, which autonomously inspects and patches raw neural network weights.</li>
+  <li><strong>Anthropic IPO Risk Disclosures:</strong> Anthropic&#x27;s amended IPO prospectus warns of imminent recursive self-improvement alongside $104 billion in net losses and $900 billion in compute liabilities.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Anthropic Message Threads Beta: Anthropic launched streaming delta updates for message threads, cutting time-to-first-token latency by 35% across massive context windows.
+• OpenAI GPT-6.2 Astra Telemetry: Leaked Codex telemetry reveals OpenAI is A/B testing GPT-6.2 Astra, which autonomously inspects and patches raw neural network weights.
+• Anthropic IPO Risk Disclosures: Anthropic&#x27;s amended IPO prospectus warns of imminent recursive self-improvement alongside $104 billion in net losses and $900 billion in compute liabilities.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261104_tldr_2.mp3" length="3142390" type="audio/mpeg"/>
+      <guid isPermaLink="false">b74ef20274d5da56c688b63778692365</guid>
+      <itunes:duration>196</itunes:duration>
+    </item>
   </channel>
 </rss>
