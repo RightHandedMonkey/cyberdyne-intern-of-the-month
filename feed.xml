@@ -31,37 +31,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
       <item>
-      <title>chown -R agent:human: World ID Hands Biometric Auth to Agents (Breaker in Hand)</title>
-      <pubDate>Tue, 06 Oct 2026 06:20:05 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
-      <description>In this episode:
-• Concurrent Agent Compute Demands: Epoch AI published projections detailing the immense compute required to run hundreds of millions of concurrent agents.
-• Prime Intellect &amp; Vx Language: Prime Intellect demonstrated distributed inference scaling alongside the launch of the hardware-topology-aware Vx programming language.
-• Aleph Alpha Kolibri Release: Aleph Alpha open-sourced its Kolibri model to provide sovereign, efficient weights for enterprise users.
-• World ID Proof of Human Delegation: World ID introduced delegated biometric verification allowing humans to grant verified authority to autonomous agents.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Concurrent Agent Compute Demands:</strong> Epoch AI published projections detailing the immense compute required to run hundreds of millions of concurrent agents.</li>
-  <li><strong>Prime Intellect &amp; Vx Language:</strong> Prime Intellect demonstrated distributed inference scaling alongside the launch of the hardware-topology-aware Vx programming language.</li>
-  <li><strong>Aleph Alpha Kolibri Release:</strong> Aleph Alpha open-sourced its Kolibri model to provide sovereign, efficient weights for enterprise users.</li>
-  <li><strong>World ID Proof of Human Delegation:</strong> World ID introduced delegated biometric verification allowing humans to grant verified authority to autonomous agents.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Concurrent Agent Compute Demands: Epoch AI published projections detailing the immense compute required to run hundreds of millions of concurrent agents.
-• Prime Intellect &amp; Vx Language: Prime Intellect demonstrated distributed inference scaling alongside the launch of the hardware-topology-aware Vx programming language.
-• Aleph Alpha Kolibri Release: Aleph Alpha open-sourced its Kolibri model to provide sovereign, efficient weights for enterprise users.
-• World ID Proof of Human Delegation: World ID introduced delegated biometric verification allowing humans to grant verified authority to autonomous agents.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261006_tldr_3.mp3" length="2867062" type="audio/mpeg"/>
-      <guid isPermaLink="false">a0f11934c4ff8c38c4393a4064fed1f3</guid>
-      <itunes:duration>179</itunes:duration>
-    </item>
-      <item>
       <title>eval(untrusted): Instinct Drops Shared Agents into Group Chats (Calling in Sick)</title>
       <pubDate>Wed, 07 Oct 2026 06:20:15 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
@@ -675,6 +644,34 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261104_tldr_2.mp3" length="3142390" type="audio/mpeg"/>
       <guid isPermaLink="false">b74ef20274d5da56c688b63778692365</guid>
       <itunes:duration>196</itunes:duration>
+    </item>
+      <item>
+      <title>unshare --mount: Baseten MicroVMs Cage Rogue Agents (RIP Root Shell)</title>
+      <pubDate>Thu, 05 Nov 2026 06:26:21 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• Apple Opens Siri AI Context to Developers: Apple expanded third-party access to personal context and intent parsing in iOS, trading deterministic app sandboxing for an enlarged mobile authentication attack surface.
+• Baseten Deploys MicroVM Sandboxes for Agents: Baseten launched resumable hardware-isolated microVMs and serverless reinforcement learning tooling to contain unpredictable autonomous code execution.
+• Zero-Knowledge SNARKs Enable Provable Inference: Cryptographic proofs of inference are emerging to verify exact frontier model lineage in automated pipelines without requiring vendors to expose proprietary weights.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Apple Opens Siri AI Context to Developers:</strong> Apple expanded third-party access to personal context and intent parsing in iOS, trading deterministic app sandboxing for an enlarged mobile authentication attack surface.</li>
+  <li><strong>Baseten Deploys MicroVM Sandboxes for Agents:</strong> Baseten launched resumable hardware-isolated microVMs and serverless reinforcement learning tooling to contain unpredictable autonomous code execution.</li>
+  <li><strong>Zero-Knowledge SNARKs Enable Provable Inference:</strong> Cryptographic proofs of inference are emerging to verify exact frontier model lineage in automated pipelines without requiring vendors to expose proprietary weights.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Apple Opens Siri AI Context to Developers: Apple expanded third-party access to personal context and intent parsing in iOS, trading deterministic app sandboxing for an enlarged mobile authentication attack surface.
+• Baseten Deploys MicroVM Sandboxes for Agents: Baseten launched resumable hardware-isolated microVMs and serverless reinforcement learning tooling to contain unpredictable autonomous code execution.
+• Zero-Knowledge SNARKs Enable Provable Inference: Cryptographic proofs of inference are emerging to verify exact frontier model lineage in automated pipelines without requiring vendors to expose proprietary weights.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261105_tldr_3.mp3" length="3207670" type="audio/mpeg"/>
+      <guid isPermaLink="false">29ee0e52deb3a6519a2b0be541670280</guid>
+      <itunes:duration>200</itunes:duration>
     </item>
   </channel>
 </rss>
