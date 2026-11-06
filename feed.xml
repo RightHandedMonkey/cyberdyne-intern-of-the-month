@@ -31,37 +31,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
       <item>
-      <title>eval(untrusted): Instinct Drops Shared Agents into Group Chats (Calling in Sick)</title>
-      <pubDate>Wed, 07 Oct 2026 06:20:15 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
-      <description>In this episode:
-• OpenAI $30B Sovereign Financing: OpenAI negotiated a $30 billion sovereign funding package and launched an enterprise marketplace to manage mounting compute debt.
-• Instinct Group Chat Agents: Instinct deployed shared agents into multi-user group chats despite critical authentication vulnerabilities.
-• Reflection 501B Beam Model: Reflection launched Beam, a 501-billion-parameter sparse Mixture-of-Experts model.
-• Devin Cross-Session Dreaming: Cognition introduced offline memory dreaming to allow Devin to reconcile state across distinct coding sessions.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>OpenAI $30B Sovereign Financing:</strong> OpenAI negotiated a $30 billion sovereign funding package and launched an enterprise marketplace to manage mounting compute debt.</li>
-  <li><strong>Instinct Group Chat Agents:</strong> Instinct deployed shared agents into multi-user group chats despite critical authentication vulnerabilities.</li>
-  <li><strong>Reflection 501B Beam Model:</strong> Reflection launched Beam, a 501-billion-parameter sparse Mixture-of-Experts model.</li>
-  <li><strong>Devin Cross-Session Dreaming:</strong> Cognition introduced offline memory dreaming to allow Devin to reconcile state across distinct coding sessions.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• OpenAI $30B Sovereign Financing: OpenAI negotiated a $30 billion sovereign funding package and launched an enterprise marketplace to manage mounting compute debt.
-• Instinct Group Chat Agents: Instinct deployed shared agents into multi-user group chats despite critical authentication vulnerabilities.
-• Reflection 501B Beam Model: Reflection launched Beam, a 501-billion-parameter sparse Mixture-of-Experts model.
-• Devin Cross-Session Dreaming: Cognition introduced offline memory dreaming to allow Devin to reconcile state across distinct coding sessions.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261007_tldr_3.mp3" length="2616310" type="audio/mpeg"/>
-      <guid isPermaLink="false">55dae4fd9576bba6babbf869d8fc3535</guid>
-      <itunes:duration>163</itunes:duration>
-    </item>
-      <item>
       <title>iptables -F: Meta and Sierra Launch Personal Agent Protocol (Perimeter Down)</title>
       <pubDate>Thu, 08 Oct 2026 06:18:22 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
@@ -672,6 +641,34 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261105_tldr_3.mp3" length="3207670" type="audio/mpeg"/>
       <guid isPermaLink="false">29ee0e52deb3a6519a2b0be541670280</guid>
       <itunes:duration>200</itunes:duration>
+    </item>
+      <item>
+      <title>setuid(0): OpenAI Weaponizes 948 Linux Kernel 0-Days (RIP LKML)</title>
+      <pubDate>Fri, 06 Nov 2026 06:25:54 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• OpenAI Kernel Escalation Pipeline: OpenAI deployed an autonomous cybersecurity pipeline that independently weaponized, exploited, and generated patches for 948 Linux local privilege escalation vulnerabilities in a single run.
+• Ricursive Ripple-65B Compute Efficiency: Ricursive introduced Ripple-65B Preview, seizing state-of-the-art on TerminalBench 2.1 over models twelve times larger while slashing training compute costs by ninety percent.
+• Axiom Lean Proof Formalization: Axiom converted the Stacks Project into machine-checked Lean libraries, establishing a deterministic algebraic geometry foundation for autonomous reasoning swarms.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>OpenAI Kernel Escalation Pipeline:</strong> OpenAI deployed an autonomous cybersecurity pipeline that independently weaponized, exploited, and generated patches for 948 Linux local privilege escalation vulnerabilities in a single run.</li>
+  <li><strong>Ricursive Ripple-65B Compute Efficiency:</strong> Ricursive introduced Ripple-65B Preview, seizing state-of-the-art on TerminalBench 2.1 over models twelve times larger while slashing training compute costs by ninety percent.</li>
+  <li><strong>Axiom Lean Proof Formalization:</strong> Axiom converted the Stacks Project into machine-checked Lean libraries, establishing a deterministic algebraic geometry foundation for autonomous reasoning swarms.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• OpenAI Kernel Escalation Pipeline: OpenAI deployed an autonomous cybersecurity pipeline that independently weaponized, exploited, and generated patches for 948 Linux local privilege escalation vulnerabilities in a single run.
+• Ricursive Ripple-65B Compute Efficiency: Ricursive introduced Ripple-65B Preview, seizing state-of-the-art on TerminalBench 2.1 over models twelve times larger while slashing training compute costs by ninety percent.
+• Axiom Lean Proof Formalization: Axiom converted the Stacks Project into machine-checked Lean libraries, establishing a deterministic algebraic geometry foundation for autonomous reasoning swarms.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261106_tldr_3.mp3" length="2932342" type="audio/mpeg"/>
+      <guid isPermaLink="false">590d373fcc16918298f1b1cb9b8e0843</guid>
+      <itunes:duration>183</itunes:duration>
     </item>
   </channel>
 </rss>
