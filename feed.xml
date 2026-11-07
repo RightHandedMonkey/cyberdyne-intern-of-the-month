@@ -31,37 +31,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
       <item>
-      <title>iptables -F: Meta and Sierra Launch Personal Agent Protocol (Perimeter Down)</title>
-      <pubDate>Thu, 08 Oct 2026 06:18:22 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
-      <description>In this episode:
-• OpenAI Decisions API: OpenAI released its low-latency Decisions API to slash inference costs by bypassing verbose chain-of-thought reasoning.
-• Personal Agent Protocol: Meta and Sierra established the Personal Agent Protocol to standardize delegated agent authorization across platforms.
-• Mistral Large 4 Scale: Mistral expanded European frontier compute with the release of its trillion-parameter Mistral Large 4 model.
-• Google Nano Banana 2.1: Google targeted ultra-compact edge deployments with its lightweight Nano Banana 2.1 model.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>OpenAI Decisions API:</strong> OpenAI released its low-latency Decisions API to slash inference costs by bypassing verbose chain-of-thought reasoning.</li>
-  <li><strong>Personal Agent Protocol:</strong> Meta and Sierra established the Personal Agent Protocol to standardize delegated agent authorization across platforms.</li>
-  <li><strong>Mistral Large 4 Scale:</strong> Mistral expanded European frontier compute with the release of its trillion-parameter Mistral Large 4 model.</li>
-  <li><strong>Google Nano Banana 2.1:</strong> Google targeted ultra-compact edge deployments with its lightweight Nano Banana 2.1 model.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• OpenAI Decisions API: OpenAI released its low-latency Decisions API to slash inference costs by bypassing verbose chain-of-thought reasoning.
-• Personal Agent Protocol: Meta and Sierra established the Personal Agent Protocol to standardize delegated agent authorization across platforms.
-• Mistral Large 4 Scale: Mistral expanded European frontier compute with the release of its trillion-parameter Mistral Large 4 model.
-• Google Nano Banana 2.1: Google targeted ultra-compact edge deployments with its lightweight Nano Banana 2.1 model.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261008_tldr_3.mp3" length="2716150" type="audio/mpeg"/>
-      <guid isPermaLink="false">0d4e735f17e29deabc69b56de39959cc</guid>
-      <itunes:duration>170</itunes:duration>
-    </item>
-      <item>
       <title>dangerouslySetInnerHTML: GPT-6 Renders Client UI (CoT Goes Dark)</title>
       <pubDate>Fri, 09 Oct 2026 06:18:57 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
@@ -669,6 +638,37 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261106_tldr_3.mp3" length="2932342" type="audio/mpeg"/>
       <guid isPermaLink="false">590d373fcc16918298f1b1cb9b8e0843</guid>
       <itunes:duration>183</itunes:duration>
+    </item>
+      <item>
+      <title>GRANT ALL ON bank.*: Claude Links Live Accounts as GPT-6 Cyber Ships (No Rollback)</title>
+      <pubDate>Sat, 07 Nov 2026 06:28:18 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• GPT-6 Cyber &amp; Agent Identity: OpenAI unveiled GPT-6 Cyber for scoped vulnerability discovery and validation as Cloudflare proposed a trust framework to verify delegated machine identities.
+• Inkling 2 Small &amp; Parallel Robotics: Thinking Machines announced an Apache 2.0 594B-parameter Mixture-of-Experts model activating 17B parameters per token alongside NVIDIA&#x27;s VFlash parallel robot trajectory predictor.
+• Doubling R&amp;D Velocity &amp; Live Account Access: An independent audit found Anthropic&#x27;s AI research pace doubled over 2024–2025 baselines just as Claude added live bank connections and Cursor launched prompt-to-database deployments.
+• Inference Economics vs. Credential Sprawl: Labs are migrating toward sparse routing and parallel predictors to survive memory bandwidth and cost walls while expanding persistent agent permissions faster than containment matures.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>GPT-6 Cyber &amp; Agent Identity:</strong> OpenAI unveiled GPT-6 Cyber for scoped vulnerability discovery and validation as Cloudflare proposed a trust framework to verify delegated machine identities.</li>
+  <li><strong>Inkling 2 Small &amp; Parallel Robotics:</strong> Thinking Machines announced an Apache 2.0 594B-parameter Mixture-of-Experts model activating 17B parameters per token alongside NVIDIA&#x27;s VFlash parallel robot trajectory predictor.</li>
+  <li><strong>Doubling R&amp;D Velocity &amp; Live Account Access:</strong> An independent audit found Anthropic&#x27;s AI research pace doubled over 2024–2025 baselines just as Claude added live bank connections and Cursor launched prompt-to-database deployments.</li>
+  <li><strong>Inference Economics vs. Credential Sprawl:</strong> Labs are migrating toward sparse routing and parallel predictors to survive memory bandwidth and cost walls while expanding persistent agent permissions faster than containment matures.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• GPT-6 Cyber &amp; Agent Identity: OpenAI unveiled GPT-6 Cyber for scoped vulnerability discovery and validation as Cloudflare proposed a trust framework to verify delegated machine identities.
+• Inkling 2 Small &amp; Parallel Robotics: Thinking Machines announced an Apache 2.0 594B-parameter Mixture-of-Experts model activating 17B parameters per token alongside NVIDIA&#x27;s VFlash parallel robot trajectory predictor.
+• Doubling R&amp;D Velocity &amp; Live Account Access: An independent audit found Anthropic&#x27;s AI research pace doubled over 2024–2025 baselines just as Claude added live bank connections and Cursor launched prompt-to-database deployments.
+• Inference Economics vs. Credential Sprawl: Labs are migrating toward sparse routing and parallel predictors to survive memory bandwidth and cost walls while expanding persistent agent permissions faster than containment matures.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261107_tldr_3.mp3" length="3267190" type="audio/mpeg"/>
+      <guid isPermaLink="false">6d0a8646059c97a5d90660f394d13422</guid>
+      <itunes:duration>204</itunes:duration>
     </item>
   </channel>
 </rss>
