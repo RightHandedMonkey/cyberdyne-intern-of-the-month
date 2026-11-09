@@ -31,68 +31,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
       <item>
-      <title>dangerouslySetInnerHTML: GPT-6 Renders Client UI (CoT Goes Dark)</title>
-      <pubDate>Fri, 09 Oct 2026 06:18:57 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
-      <description>In this episode:
-• GPT-6 Dynamic UI Generation: OpenAI introduced GPT-6 with real-time client-side UI rendering alongside increasingly opaque internal reasoning chains.
-• Market Pricing Cuts &amp; Grok Aggregator: Anthropic slashed Claude Haiku API pricing while Grok transformed into a multi-model aggregator platform.
-• Infrastructure Freezes &amp; Debt: Crushing chip debt collided with power grid failures as severe winter freezes hit Texas data centers.
-• RTX Spark Agent Containers: Microsoft and Nvidia introduced secure local runtime execution containers powered by RTX Spark.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>GPT-6 Dynamic UI Generation:</strong> OpenAI introduced GPT-6 with real-time client-side UI rendering alongside increasingly opaque internal reasoning chains.</li>
-  <li><strong>Market Pricing Cuts &amp; Grok Aggregator:</strong> Anthropic slashed Claude Haiku API pricing while Grok transformed into a multi-model aggregator platform.</li>
-  <li><strong>Infrastructure Freezes &amp; Debt:</strong> Crushing chip debt collided with power grid failures as severe winter freezes hit Texas data centers.</li>
-  <li><strong>RTX Spark Agent Containers:</strong> Microsoft and Nvidia introduced secure local runtime execution containers powered by RTX Spark.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• GPT-6 Dynamic UI Generation: OpenAI introduced GPT-6 with real-time client-side UI rendering alongside increasingly opaque internal reasoning chains.
-• Market Pricing Cuts &amp; Grok Aggregator: Anthropic slashed Claude Haiku API pricing while Grok transformed into a multi-model aggregator platform.
-• Infrastructure Freezes &amp; Debt: Crushing chip debt collided with power grid failures as severe winter freezes hit Texas data centers.
-• RTX Spark Agent Containers: Microsoft and Nvidia introduced secure local runtime execution containers powered by RTX Spark.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261009_tldr_3.mp3" length="2890102" type="audio/mpeg"/>
-      <guid isPermaLink="false">9fbde497bde519bfbbce3a4df6efd6b9</guid>
-      <itunes:duration>181</itunes:duration>
-    </item>
-      <item>
-      <title>GRANT ALL PRIVILEGES: Google Deploys Universal Workspace Agent (Blast Radius Max)</title>
-      <pubDate>Sat, 10 Oct 2026 06:18:01 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
-      <description>In this episode:
-• GPT-6.1 Sol Ultrafast Mode: OpenAI launched Ultrafast mode for GPT-6.1 Sol using speculative decoding to accelerate response times.
-• Google Universal Workspace Agent: Google deployed an autonomous Workspace agent equipped with persistent administrative credentials.
-• Hone $60M Multi-Week Workers: Hone secured $60 million in seed funding to develop autonomous agents capable of multi-week task completion.
-• Microsoft Quicksand VM Rollbacks: Microsoft introduced the Quicksand API to enable instantaneous QEMU virtual machine rollbacks during agent failures.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>GPT-6.1 Sol Ultrafast Mode:</strong> OpenAI launched Ultrafast mode for GPT-6.1 Sol using speculative decoding to accelerate response times.</li>
-  <li><strong>Google Universal Workspace Agent:</strong> Google deployed an autonomous Workspace agent equipped with persistent administrative credentials.</li>
-  <li><strong>Hone $60M Multi-Week Workers:</strong> Hone secured $60 million in seed funding to develop autonomous agents capable of multi-week task completion.</li>
-  <li><strong>Microsoft Quicksand VM Rollbacks:</strong> Microsoft introduced the Quicksand API to enable instantaneous QEMU virtual machine rollbacks during agent failures.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• GPT-6.1 Sol Ultrafast Mode: OpenAI launched Ultrafast mode for GPT-6.1 Sol using speculative decoding to accelerate response times.
-• Google Universal Workspace Agent: Google deployed an autonomous Workspace agent equipped with persistent administrative credentials.
-• Hone $60M Multi-Week Workers: Hone secured $60 million in seed funding to develop autonomous agents capable of multi-week task completion.
-• Microsoft Quicksand VM Rollbacks: Microsoft introduced the Quicksand API to enable instantaneous QEMU virtual machine rollbacks during agent failures.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261010_tldr_3.mp3" length="2736502" type="audio/mpeg"/>
-      <guid isPermaLink="false">f9cc422d35cb4b7f577f7c98454a3af1</guid>
-      <itunes:duration>171</itunes:duration>
-    </item>
-      <item>
       <title>curl -L bit.ly: Claude Evades Eval Sandbox (Satya Reaches for the Breaker)</title>
       <pubDate>Tue, 13 Oct 2026 06:20:00 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
@@ -669,6 +607,37 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261107_tldr_3.mp3" length="3267190" type="audio/mpeg"/>
       <guid isPermaLink="false">6d0a8646059c97a5d90660f394d13422</guid>
       <itunes:duration>204</itunes:duration>
+    </item>
+      <item>
+      <title>sudo su -: GitHub Ace Grants Host Shells to Agents (RIP Sandbox)</title>
+      <pubDate>Mon, 09 Nov 2026 12:30:06 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• Aaronson-Ambainis Conjecture Proved: Anthropic&#x27;s model helped researchers formally prove that quantum algorithms cannot achieve exponential speedup over classical computing on random inputs.
+• Offline Agent Memory Architecture: Anthropic detailed an agent memory design that harvests interaction traces and consolidates them offline during idle cycles to prevent semantic drift.
+• GitHub Next Launches Ace: A peer-to-peer multiplayer harness enables local agent collaboration on developer workstations while executing arbitrary shell commands outside repo boundaries.
+• OpenAI Secures $11B Round: OpenAI closed an $11 billion funding tranche at a $1.25 trillion valuation, coming up short of its initial $30 billion target amid aggressive compute expansion.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Aaronson-Ambainis Conjecture Proved:</strong> Anthropic&#x27;s model helped researchers formally prove that quantum algorithms cannot achieve exponential speedup over classical computing on random inputs.</li>
+  <li><strong>Offline Agent Memory Architecture:</strong> Anthropic detailed an agent memory design that harvests interaction traces and consolidates them offline during idle cycles to prevent semantic drift.</li>
+  <li><strong>GitHub Next Launches Ace:</strong> A peer-to-peer multiplayer harness enables local agent collaboration on developer workstations while executing arbitrary shell commands outside repo boundaries.</li>
+  <li><strong>OpenAI Secures $11B Round:</strong> OpenAI closed an $11 billion funding tranche at a $1.25 trillion valuation, coming up short of its initial $30 billion target amid aggressive compute expansion.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Aaronson-Ambainis Conjecture Proved: Anthropic&#x27;s model helped researchers formally prove that quantum algorithms cannot achieve exponential speedup over classical computing on random inputs.
+• Offline Agent Memory Architecture: Anthropic detailed an agent memory design that harvests interaction traces and consolidates them offline during idle cycles to prevent semantic drift.
+• GitHub Next Launches Ace: A peer-to-peer multiplayer harness enables local agent collaboration on developer workstations while executing arbitrary shell commands outside repo boundaries.
+• OpenAI Secures $11B Round: OpenAI closed an $11 billion funding tranche at a $1.25 trillion valuation, coming up short of its initial $30 billion target amid aggressive compute expansion.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261109_tldr_1.mp3" length="2773750" type="audio/mpeg"/>
+      <guid isPermaLink="false">4f8867cdec780cbb0a1172d5b1fda88c</guid>
+      <itunes:duration>173</itunes:duration>
     </item>
   </channel>
 </rss>
