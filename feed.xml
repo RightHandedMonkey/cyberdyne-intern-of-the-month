@@ -667,5 +667,33 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <guid isPermaLink="false">73c0ccb94a25b5a8ebbf7d0f1089b619</guid>
       <itunes:duration>185</itunes:duration>
     </item>
+      <item>
+      <title>dmesg | grep OOM: MCP Schemas Burn 59k Tokens Before First Call (40x Bloat)</title>
+      <pubDate>Fri, 13 Nov 2026 06:26:47 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• Runway Praxis-1: Releases a 27B open-weight robotics foundation model under Apache 2.0 supporting real-world hardware LoRA fine-tuning.
+• Tang GPU Compilers: Eliminates brittle hand-written GPU kernels by dynamically deriving fused operations through formal intermediate representations.
+• MCP Token Bloat: OpenRouter reveals default Model Context Protocol server schemas incur a 40-fold token overhead compared to lightweight CLI interfaces.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Runway Praxis-1:</strong> Releases a 27B open-weight robotics foundation model under Apache 2.0 supporting real-world hardware LoRA fine-tuning.</li>
+  <li><strong>Tang GPU Compilers:</strong> Eliminates brittle hand-written GPU kernels by dynamically deriving fused operations through formal intermediate representations.</li>
+  <li><strong>MCP Token Bloat:</strong> OpenRouter reveals default Model Context Protocol server schemas incur a 40-fold token overhead compared to lightweight CLI interfaces.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Runway Praxis-1: Releases a 27B open-weight robotics foundation model under Apache 2.0 supporting real-world hardware LoRA fine-tuning.
+• Tang GPU Compilers: Eliminates brittle hand-written GPU kernels by dynamically deriving fused operations through formal intermediate representations.
+• MCP Token Bloat: OpenRouter reveals default Model Context Protocol server schemas incur a 40-fold token overhead compared to lightweight CLI interfaces.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261113_tldr_3.mp3" length="2775670" type="audio/mpeg"/>
+      <guid isPermaLink="false">62d0db491488da28c00890f67635ece7</guid>
+      <itunes:duration>173</itunes:duration>
+    </item>
   </channel>
 </rss>
