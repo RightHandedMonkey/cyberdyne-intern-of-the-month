@@ -31,37 +31,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
       <item>
-      <title>cat /dev/mic: FBI Busts OpenAI Insider Wiretap (Analog Beats Zero-Trust)</title>
-      <pubDate>Thu, 15 Oct 2026 06:19:41 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
-      <description>In this episode:
-• OpenAI Physical Wiretap: An OpenAI employee was arrested by the FBI after planting a physical microphone in an executive conference room, proving physical access still trumps zero-trust security.
-• Anthropic Dynamic Swarms: Anthropic demonstrated recursive multi-agent code workflows for Claude that produce granular analytical results while running up compute bills with zero runtime budget awareness.
-• Nvidia Open-Sources Run:ai: Nvidia released its complete Run:ai orchestration platform and KAI scheduler to allow platform teams to reclaim idle GPU silicon and fraction clusters directly.
-• Character.ai Chapter 11: Character.ai filed for bankruptcy under mounting operational overhead, demonstrating the unsustainable unit economics of persistent conversational state on proprietary compute.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>OpenAI Physical Wiretap:</strong> An OpenAI employee was arrested by the FBI after planting a physical microphone in an executive conference room, proving physical access still trumps zero-trust security.</li>
-  <li><strong>Anthropic Dynamic Swarms:</strong> Anthropic demonstrated recursive multi-agent code workflows for Claude that produce granular analytical results while running up compute bills with zero runtime budget awareness.</li>
-  <li><strong>Nvidia Open-Sources Run:</strong> ai: Nvidia released its complete Run:ai orchestration platform and KAI scheduler to allow platform teams to reclaim idle GPU silicon and fraction clusters directly.</li>
-  <li><strong>Character.ai Chapter 11:</strong> Character.ai filed for bankruptcy under mounting operational overhead, demonstrating the unsustainable unit economics of persistent conversational state on proprietary compute.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• OpenAI Physical Wiretap: An OpenAI employee was arrested by the FBI after planting a physical microphone in an executive conference room, proving physical access still trumps zero-trust security.
-• Anthropic Dynamic Swarms: Anthropic demonstrated recursive multi-agent code workflows for Claude that produce granular analytical results while running up compute bills with zero runtime budget awareness.
-• Nvidia Open-Sources Run:ai: Nvidia released its complete Run:ai orchestration platform and KAI scheduler to allow platform teams to reclaim idle GPU silicon and fraction clusters directly.
-• Character.ai Chapter 11: Character.ai filed for bankruptcy under mounting operational overhead, demonstrating the unsustainable unit economics of persistent conversational state on proprietary compute.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261015_tldr_3.mp3" length="2756086" type="audio/mpeg"/>
-      <guid isPermaLink="false">9eec9ca255a128f33a61903fc4db91ac</guid>
-      <itunes:duration>172</itunes:duration>
-    </item>
-      <item>
       <title>strace -p agent: Anthropic Instruments Claude (Dashboards Scream in OTLP)</title>
       <pubDate>Fri, 16 Oct 2026 06:19:08 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
@@ -694,6 +663,37 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261113_tldr_3.mp3" length="2775670" type="audio/mpeg"/>
       <guid isPermaLink="false">62d0db491488da28c00890f67635ece7</guid>
       <itunes:duration>173</itunes:duration>
+    </item>
+      <item>
+      <title>stripe charges create: Replit Hands Agents Live Credit Cards (RIP CFO)</title>
+      <pubDate>Sat, 14 Nov 2026 06:26:45 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• Gemini 4 Hydrogen: Google released an inference-optimized model tuned for coding loops, delivering strong benchmark scores at reduced token costs.
+• Divergent Agent Sandboxing: Anthropic introduced VPC-isolated managed agents with zero data retention, contrasting with Replit giving autonomous agents direct corporate credit card access.
+• Deterministic Inference via Integer Math: Researchers eliminated GPU logit drift caused by floating-point non-associativity by shifting intermediate matrix accumulations into exact integer arithmetic.
+• Pragmatic Architecture Convergence: Industry development is pivoting away from brute-force scaling toward lean routing, formal verification, and hardened execution sandboxes.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Gemini 4 Hydrogen:</strong> Google released an inference-optimized model tuned for coding loops, delivering strong benchmark scores at reduced token costs.</li>
+  <li><strong>Divergent Agent Sandboxing:</strong> Anthropic introduced VPC-isolated managed agents with zero data retention, contrasting with Replit giving autonomous agents direct corporate credit card access.</li>
+  <li><strong>Deterministic Inference via Integer Math:</strong> Researchers eliminated GPU logit drift caused by floating-point non-associativity by shifting intermediate matrix accumulations into exact integer arithmetic.</li>
+  <li><strong>Pragmatic Architecture Convergence:</strong> Industry development is pivoting away from brute-force scaling toward lean routing, formal verification, and hardened execution sandboxes.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Gemini 4 Hydrogen: Google released an inference-optimized model tuned for coding loops, delivering strong benchmark scores at reduced token costs.
+• Divergent Agent Sandboxing: Anthropic introduced VPC-isolated managed agents with zero data retention, contrasting with Replit giving autonomous agents direct corporate credit card access.
+• Deterministic Inference via Integer Math: Researchers eliminated GPU logit drift caused by floating-point non-associativity by shifting intermediate matrix accumulations into exact integer arithmetic.
+• Pragmatic Architecture Convergence: Industry development is pivoting away from brute-force scaling toward lean routing, formal verification, and hardened execution sandboxes.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261114_tldr_3.mp3" length="2930806" type="audio/mpeg"/>
+      <guid isPermaLink="false">2dc19c3a3e581c08519e590a34928e3e</guid>
+      <itunes:duration>183</itunes:duration>
     </item>
   </channel>
 </rss>
