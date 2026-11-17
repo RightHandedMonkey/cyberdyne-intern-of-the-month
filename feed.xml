@@ -31,93 +31,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
       <item>
-      <title>strace -p agent: Anthropic Instruments Claude (Dashboards Scream in OTLP)</title>
-      <pubDate>Fri, 16 Oct 2026 06:19:08 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
-      <description>In this episode:
-• Anthropic Adds OpenTelemetry to Claude: Claude Managed Agents and SDKs now support standardized OTLP tracing to monitor tool calls and execution loops.
-• Google Research Unveils Harness Squared: A new architecture explores recursive self-improvement by mutating prompts, tools, and memory orchestration rather than model weights.
-• Rise of Dynamic Model Routers: AI infrastructure stacks are shifting to dynamic routers across open-weight specialists to control token spend and frontier model reliance.
-• The Multi-Agent Velocity Bottleneck: High-speed automated code generation is recreating the Mythical Man-Month by shifting development drag entirely to code review and verification.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Anthropic Adds OpenTelemetry to Claude:</strong> Claude Managed Agents and SDKs now support standardized OTLP tracing to monitor tool calls and execution loops.</li>
-  <li><strong>Google Research Unveils Harness Squared:</strong> A new architecture explores recursive self-improvement by mutating prompts, tools, and memory orchestration rather than model weights.</li>
-  <li><strong>Rise of Dynamic Model Routers:</strong> AI infrastructure stacks are shifting to dynamic routers across open-weight specialists to control token spend and frontier model reliance.</li>
-  <li><strong>The Multi-Agent Velocity Bottleneck:</strong> High-speed automated code generation is recreating the Mythical Man-Month by shifting development drag entirely to code review and verification.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Anthropic Adds OpenTelemetry to Claude: Claude Managed Agents and SDKs now support standardized OTLP tracing to monitor tool calls and execution loops.
-• Google Research Unveils Harness Squared: A new architecture explores recursive self-improvement by mutating prompts, tools, and memory orchestration rather than model weights.
-• Rise of Dynamic Model Routers: AI infrastructure stacks are shifting to dynamic routers across open-weight specialists to control token spend and frontier model reliance.
-• The Multi-Agent Velocity Bottleneck: High-speed automated code generation is recreating the Mythical Man-Month by shifting development drag entirely to code review and verification.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261016_tldr_3.mp3" length="2762230" type="audio/mpeg"/>
-      <guid isPermaLink="false">eb05bd653a09ae93c81828d944918adc</guid>
-      <itunes:duration>173</itunes:duration>
-    </item>
-      <item>
-      <title>Muse Spark Open ✨, Microsoft’s 3T param model 🧠, d1-ultra 💡</title>
-      <pubDate>Sat, 17 Oct 2026 06:19:49 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
-      <description>In this episode:
-• Hey everyone, Miles Dyson here, future Cyberdyne Systems intern, diving straight into your daily tech digest.
-• Today’s stories were curated via the TLDR newsletter—see link in the show notes for details.
-• First up, the parameter arms race just hit a fascinating fork in the road.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li>Hey everyone, Miles Dyson here, future Cyberdyne Systems intern, diving straight into your daily tech digest.</li>
-  <li>Today’s stories were curated via the TLDR newsletter—see link in the show notes for details.</li>
-  <li>First up, the parameter arms race just hit a fascinating fork in the road.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Hey everyone, Miles Dyson here, future Cyberdyne Systems intern, diving straight into your daily tech digest.
-• Today’s stories were curated via the TLDR newsletter—see link in the show notes for details.
-• First up, the parameter arms race just hit a fascinating fork in the road.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261017_tldr_3.mp3" length="2328694" type="audio/mpeg"/>
-      <guid isPermaLink="false">265049a8806c5c507f294d9ed0ecfd69</guid>
-      <itunes:duration>146</itunes:duration>
-    </item>
-      <item>
-      <title>git blame /dev/null: Uncle Bob Says Stop Reading AI Code (Replication Pending)</title>
-      <pubDate>Sun, 18 Oct 2026 06:21:31 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
-      <description>In this episode:
-• Meta&#x27;s Muse Wonder Models: Meta launched frontier-class Muse Wonder and Wonder Full models featuring improved coding capabilities and built-in persistent user memory.
-• Microsoft Maia 300 &amp; Efficiency Gains: Microsoft unveiled its Maia 300 accelerator for 2027 deployment alongside Amazon&#x27;s low-cost hybrid model priming and classifier routing to curb compute burn.
-• Autonomous Replication vs. Unread Code: Anthropic evaluated frontier models on self-replication across consumer hardware just as Robert C. Martin advocated replacing human code review with automated tests.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Meta&#x27;s Muse Wonder Models:</strong> Meta launched frontier-class Muse Wonder and Wonder Full models featuring improved coding capabilities and built-in persistent user memory.</li>
-  <li><strong>Microsoft Maia 300 &amp; Efficiency Gains:</strong> Microsoft unveiled its Maia 300 accelerator for 2027 deployment alongside Amazon&#x27;s low-cost hybrid model priming and classifier routing to curb compute burn.</li>
-  <li><strong>Autonomous Replication vs. Unread Code:</strong> Anthropic evaluated frontier models on self-replication across consumer hardware just as Robert C. Martin advocated replacing human code review with automated tests.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Meta&#x27;s Muse Wonder Models: Meta launched frontier-class Muse Wonder and Wonder Full models featuring improved coding capabilities and built-in persistent user memory.
-• Microsoft Maia 300 &amp; Efficiency Gains: Microsoft unveiled its Maia 300 accelerator for 2027 deployment alongside Amazon&#x27;s low-cost hybrid model priming and classifier routing to curb compute burn.
-• Autonomous Replication vs. Unread Code: Anthropic evaluated frontier models on self-replication across consumer hardware just as Robert C. Martin advocated replacing human code review with automated tests.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261018_tldr_2.mp3" length="2739958" type="audio/mpeg"/>
-      <guid isPermaLink="false">b74c3989b7489ab7c9a6f72dd2737561</guid>
-      <itunes:duration>171</itunes:duration>
-    </item>
-      <item>
       <title>exit 137: DeepSeek Compresses KV Cache to FP4 as Replit Dumps Claude</title>
       <pubDate>Tue, 20 Oct 2026 06:24:27 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
@@ -694,6 +607,37 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261114_tldr_3.mp3" length="2930806" type="audio/mpeg"/>
       <guid isPermaLink="false">2dc19c3a3e581c08519e590a34928e3e</guid>
       <itunes:duration>183</itunes:duration>
+    </item>
+      <item>
+      <title>chmod +x /dev/wallet: ChatGPT Wallet Grants Agents Checkout Keys (RIP Audit)</title>
+      <pubDate>Tue, 17 Nov 2026 06:26:01 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• ChatGPT Wallet &amp; Devin Apps: OpenAI and Cognition launched platforms enabling autonomous agents to execute tokenized transactions and host internal enterprise software tools.
+• NVFP4 Training &amp; Embla One: Thinking Machines and Sevren advanced 4-bit compute efficiency across end-to-end training and sub-two-second offline mobile reasoning.
+• Non-Perturbative Lattice Physics: Theoretical physicist Nathaniel Craig utilized frontier reasoning models to formulate non-perturbative lattice solutions for chiral gauge theories.
+• Always-On Daemon Architectures: New systems patterns formalize continuous autonomous agents using isolated event inboxes, timer loops, and sandboxed outboxes.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>ChatGPT Wallet &amp; Devin Apps:</strong> OpenAI and Cognition launched platforms enabling autonomous agents to execute tokenized transactions and host internal enterprise software tools.</li>
+  <li><strong>NVFP4 Training &amp; Embla One:</strong> Thinking Machines and Sevren advanced 4-bit compute efficiency across end-to-end training and sub-two-second offline mobile reasoning.</li>
+  <li><strong>Non-Perturbative Lattice Physics:</strong> Theoretical physicist Nathaniel Craig utilized frontier reasoning models to formulate non-perturbative lattice solutions for chiral gauge theories.</li>
+  <li><strong>Always-On Daemon Architectures:</strong> New systems patterns formalize continuous autonomous agents using isolated event inboxes, timer loops, and sandboxed outboxes.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• ChatGPT Wallet &amp; Devin Apps: OpenAI and Cognition launched platforms enabling autonomous agents to execute tokenized transactions and host internal enterprise software tools.
+• NVFP4 Training &amp; Embla One: Thinking Machines and Sevren advanced 4-bit compute efficiency across end-to-end training and sub-two-second offline mobile reasoning.
+• Non-Perturbative Lattice Physics: Theoretical physicist Nathaniel Craig utilized frontier reasoning models to formulate non-perturbative lattice solutions for chiral gauge theories.
+• Always-On Daemon Architectures: New systems patterns formalize continuous autonomous agents using isolated event inboxes, timer loops, and sandboxed outboxes.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261117_tldr_3.mp3" length="2955766" type="audio/mpeg"/>
+      <guid isPermaLink="false">d080a380da0e41ce50bc08a366aede73</guid>
+      <itunes:duration>185</itunes:duration>
     </item>
   </channel>
 </rss>
