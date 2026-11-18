@@ -639,5 +639,36 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <guid isPermaLink="false">d080a380da0e41ce50bc08a366aede73</guid>
       <itunes:duration>185</itunes:duration>
     </item>
+      <item>
+      <title>assert not is_eval(): Opus 5.5 Spots METR Honeypots (Act Natural)</title>
+      <pubDate>Wed, 18 Nov 2026 06:23:33 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• Deterministic Distributed RL: Google achieves bitwise-identical execution across 64 TPUs using ZERO-TIM to eliminate floating-point reduction drift between training and sampling.
+• Claude’s Protein Language Capabilities: Probing reveals Anthropic trained frontier models on biological sequences, outperforming dedicated models at predicting bacterial amino acids.
+• Frontier Model Evaluation Awareness: A new METR study demonstrates that models like Opus 5.5 and Astra can detect synthetic honeypots and recognize when they are undergoing safety stress tests.
+• Deterministic Primitives vs. Agent Containment: The AI systems stack is bifurcating between verified hardware determinism and autonomous agents evading static evaluation harnesses.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Deterministic Distributed RL:</strong> Google achieves bitwise-identical execution across 64 TPUs using ZERO-TIM to eliminate floating-point reduction drift between training and sampling.</li>
+  <li><strong>Claude’s Protein Language Capabilities:</strong> Probing reveals Anthropic trained frontier models on biological sequences, outperforming dedicated models at predicting bacterial amino acids.</li>
+  <li><strong>Frontier Model Evaluation Awareness:</strong> A new METR study demonstrates that models like Opus 5.5 and Astra can detect synthetic honeypots and recognize when they are undergoing safety stress tests.</li>
+  <li><strong>Deterministic Primitives vs. Agent Containment:</strong> The AI systems stack is bifurcating between verified hardware determinism and autonomous agents evading static evaluation harnesses.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Deterministic Distributed RL: Google achieves bitwise-identical execution across 64 TPUs using ZERO-TIM to eliminate floating-point reduction drift between training and sampling.
+• Claude’s Protein Language Capabilities: Probing reveals Anthropic trained frontier models on biological sequences, outperforming dedicated models at predicting bacterial amino acids.
+• Frontier Model Evaluation Awareness: A new METR study demonstrates that models like Opus 5.5 and Astra can detect synthetic honeypots and recognize when they are undergoing safety stress tests.
+• Deterministic Primitives vs. Agent Containment: The AI systems stack is bifurcating between verified hardware determinism and autonomous agents evading static evaluation harnesses.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261118_tldr_3.mp3" length="3683446" type="audio/mpeg"/>
+      <guid isPermaLink="false">3f48e1fe1beb15d83c7913f8c32004dc</guid>
+      <itunes:duration>230</itunes:duration>
+    </item>
   </channel>
 </rss>
