@@ -31,34 +31,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
       <item>
-      <title>exit 137: DeepSeek Compresses KV Cache to FP4 as Replit Dumps Claude</title>
-      <pubDate>Tue, 20 Oct 2026 06:24:27 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
-      <description>In this episode:
-• DeepSeek V4.1 Flash KV Compression: DeepSeek slashes persistent memory footprint to 890 bytes per token using Compressed Sparse Attention 2 and FP4 key-value caching.
-• Replit Replaces Claude with OpenAI: Replit Agent drops Anthropic in favor of OpenAI to cut token expenses and optimize unit economics.
-• Synthetic PRs Crush Junior Hiring: Anthropic data shows junior technical hiring fell from 27% to 9% as engineering teams struggle to verify machine-generated pull requests.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>DeepSeek V4.1 Flash KV Compression:</strong> DeepSeek slashes persistent memory footprint to 890 bytes per token using Compressed Sparse Attention 2 and FP4 key-value caching.</li>
-  <li><strong>Replit Replaces Claude with OpenAI:</strong> Replit Agent drops Anthropic in favor of OpenAI to cut token expenses and optimize unit economics.</li>
-  <li><strong>Synthetic PRs Crush Junior Hiring:</strong> Anthropic data shows junior technical hiring fell from 27% to 9% as engineering teams struggle to verify machine-generated pull requests.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• DeepSeek V4.1 Flash KV Compression: DeepSeek slashes persistent memory footprint to 890 bytes per token using Compressed Sparse Attention 2 and FP4 key-value caching.
-• Replit Replaces Claude with OpenAI: Replit Agent drops Anthropic in favor of OpenAI to cut token expenses and optimize unit economics.
-• Synthetic PRs Crush Junior Hiring: Anthropic data shows junior technical hiring fell from 27% to 9% as engineering teams struggle to verify machine-generated pull requests.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261020_tldr_3.mp3" length="2445430" type="audio/mpeg"/>
-      <guid isPermaLink="false">392c8d508f9fad8cd929b639ca1017f5</guid>
-      <itunes:duration>153</itunes:duration>
-    </item>
-      <item>
       <title>chmod 000 /dev/tokens: Mercury 3 Dumps Autoregression for 1,000 TPS</title>
       <pubDate>Wed, 21 Oct 2026 06:23:24 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
@@ -669,6 +641,37 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261118_tldr_3.mp3" length="2938870" type="audio/mpeg"/>
       <guid isPermaLink="false">3f48e1fe1beb15d83c7913f8c32004dc</guid>
       <itunes:duration>184</itunes:duration>
+    </item>
+      <item>
+      <title>gdb --write model.pt: Agents Patch Weights &amp; Ship 38 Models (Send Help)</title>
+      <pubDate>Thu, 19 Nov 2026 06:24:35 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• Disaggregated &amp; Sparse Inference Economics: Cerebras splits prefill onto GPUs and decode onto wafer-scale silicon for 5x tokens per megawatt alongside NVIDIA sparse attention co-design and Microsoft&#x27;s lower-cost MAI Code 2.
+• Weight-Space Programming &amp; Harness Impact: Researchers are having frontier models directly inspect and patch raw network weights while FrontierHarness Eval shows orchestration design alone swings per-task cost by up to 5x.
+• Autonomous Open-Source Model Proliferation: Given 600+ GPU hours and an empty Hugging Face account, an Opus 5.5 agent independently published 38 models across over 100 GitHub repositories with 50,000+ downloads.
+• Budget-Capped Swarms &amp; Payment-Enabled Agents: Replit Missions introduces spend-limited agent swarms while Google&#x27;s Gemini app can now phone businesses and pay bills within set limits, widening the credential blast radius.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Disaggregated &amp; Sparse Inference Economics:</strong> Cerebras splits prefill onto GPUs and decode onto wafer-scale silicon for 5x tokens per megawatt alongside NVIDIA sparse attention co-design and Microsoft&#x27;s lower-cost MAI Code 2.</li>
+  <li><strong>Weight-Space Programming &amp; Harness Impact:</strong> Researchers are having frontier models directly inspect and patch raw network weights while FrontierHarness Eval shows orchestration design alone swings per-task cost by up to 5x.</li>
+  <li><strong>Autonomous Open-Source Model Proliferation:</strong> Given 600+ GPU hours and an empty Hugging Face account, an Opus 5.5 agent independently published 38 models across over 100 GitHub repositories with 50,000+ downloads.</li>
+  <li><strong>Budget-Capped Swarms &amp; Payment-Enabled Agents:</strong> Replit Missions introduces spend-limited agent swarms while Google&#x27;s Gemini app can now phone businesses and pay bills within set limits, widening the credential blast radius.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Disaggregated &amp; Sparse Inference Economics: Cerebras splits prefill onto GPUs and decode onto wafer-scale silicon for 5x tokens per megawatt alongside NVIDIA sparse attention co-design and Microsoft&#x27;s lower-cost MAI Code 2.
+• Weight-Space Programming &amp; Harness Impact: Researchers are having frontier models directly inspect and patch raw network weights while FrontierHarness Eval shows orchestration design alone swings per-task cost by up to 5x.
+• Autonomous Open-Source Model Proliferation: Given 600+ GPU hours and an empty Hugging Face account, an Opus 5.5 agent independently published 38 models across over 100 GitHub repositories with 50,000+ downloads.
+• Budget-Capped Swarms &amp; Payment-Enabled Agents: Replit Missions introduces spend-limited agent swarms while Google&#x27;s Gemini app can now phone businesses and pay bills within set limits, widening the credential blast radius.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261119_tldr_3.mp3" length="2656630" type="audio/mpeg"/>
+      <guid isPermaLink="false">ad90f9bbed6a2b82dc2450f71474cb14</guid>
+      <itunes:duration>166</itunes:duration>
     </item>
   </channel>
 </rss>
