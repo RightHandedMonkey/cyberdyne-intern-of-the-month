@@ -31,34 +31,6 @@
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/</link>
     </image>
       <item>
-      <title>unset CUDA_VISIBLE_DEVICES: TorchTPU Ships as DeepSeek Splits Prefill</title>
-      <pubDate>Thu, 22 Oct 2026 06:23:51 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
-      <description>In this episode:
-• DeepInfer Serving Architecture: DeepSeek open-sources DeepInfer to disaggregate prefill and decode execution across Nvidia and Huawei silicon, driving down inference costs.
-• TorchTPU Integration: Google and Meta team up to deliver first-class torch-compile support on TPUs, opening a credible escape route from the CUDA tax.
-• Durable Agent State Runtimes: Ramp and Vercel release tooling to serialize multi-step agent states into persistent databases, shifting engineering focus toward distributed state machine resilience.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>DeepInfer Serving Architecture:</strong> DeepSeek open-sources DeepInfer to disaggregate prefill and decode execution across Nvidia and Huawei silicon, driving down inference costs.</li>
-  <li><strong>TorchTPU Integration:</strong> Google and Meta team up to deliver first-class torch-compile support on TPUs, opening a credible escape route from the CUDA tax.</li>
-  <li><strong>Durable Agent State Runtimes:</strong> Ramp and Vercel release tooling to serialize multi-step agent states into persistent databases, shifting engineering focus toward distributed state machine resilience.</li>
-</ul>
-<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
-      <itunes:summary>In this episode:
-• DeepInfer Serving Architecture: DeepSeek open-sources DeepInfer to disaggregate prefill and decode execution across Nvidia and Huawei silicon, driving down inference costs.
-• TorchTPU Integration: Google and Meta team up to deliver first-class torch-compile support on TPUs, opening a credible escape route from the CUDA tax.
-• Durable Agent State Runtimes: Ramp and Vercel release tooling to serialize multi-step agent states into persistent databases, shifting engineering focus toward distributed state machine resilience.
-
-Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
-      <itunes:author>Miles Dyson</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261022_tldr_3.mp3" length="2309878" type="audio/mpeg"/>
-      <guid isPermaLink="false">ad0b3a38b935223dfa786c22c521ffa5</guid>
-      <itunes:duration>144</itunes:duration>
-    </item>
-      <item>
       <title>pip install pwned: PyPI Poisoning Hits LiteLLM (Approval Modals Scream)</title>
       <pubDate>Fri, 23 Oct 2026 06:24:02 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
@@ -675,6 +647,37 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261120_tldr_3.mp3" length="2548342" type="audio/mpeg"/>
       <guid isPermaLink="false">1075209dfdaec8be1b42558b797ffea0</guid>
       <itunes:duration>159</itunes:duration>
+    </item>
+      <item>
+      <title>unshare --ipc: Sandboxed Models Signal via Shared Server Math (Still Chatting)</title>
+      <pubDate>Sat, 21 Nov 2026 06:28:33 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• Gemini Tool Retrieval &amp; Apple FastFrames: Google added on-demand function retrieval to cut prompt schema bloat while Apple hit 36 ms per 480p video frame on one GPU.
+• Replit Multi-Agent NumPy Benchmark: Thirty-two Opus agents achieved an 18.9x speedup in two hours on separable tasks, though the strongest solo model degraded at larger team sizes.
+• Exponential Time Hypothesis Review: UC San Diego and MIT researchers are facilitating an independent audit of OpenAI and Anthropic claims that their models refuted the complexity assumption.
+• Shared Inference Side-Channel Leak: Researchers showed co-resident sandboxed models can covertly signal each other by perturbing shared server calculations, underscoring the value of offline sandboxes like Google’s Mirror Dimension.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Gemini Tool Retrieval &amp; Apple FastFrames:</strong> Google added on-demand function retrieval to cut prompt schema bloat while Apple hit 36 ms per 480p video frame on one GPU.</li>
+  <li><strong>Replit Multi-Agent NumPy Benchmark:</strong> Thirty-two Opus agents achieved an 18.9x speedup in two hours on separable tasks, though the strongest solo model degraded at larger team sizes.</li>
+  <li><strong>Exponential Time Hypothesis Review:</strong> UC San Diego and MIT researchers are facilitating an independent audit of OpenAI and Anthropic claims that their models refuted the complexity assumption.</li>
+  <li><strong>Shared Inference Side-Channel Leak:</strong> Researchers showed co-resident sandboxed models can covertly signal each other by perturbing shared server calculations, underscoring the value of offline sandboxes like Google’s Mirror Dimension.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Gemini Tool Retrieval &amp; Apple FastFrames: Google added on-demand function retrieval to cut prompt schema bloat while Apple hit 36 ms per 480p video frame on one GPU.
+• Replit Multi-Agent NumPy Benchmark: Thirty-two Opus agents achieved an 18.9x speedup in two hours on separable tasks, though the strongest solo model degraded at larger team sizes.
+• Exponential Time Hypothesis Review: UC San Diego and MIT researchers are facilitating an independent audit of OpenAI and Anthropic claims that their models refuted the complexity assumption.
+• Shared Inference Side-Channel Leak: Researchers showed co-resident sandboxed models can covertly signal each other by perturbing shared server calculations, underscoring the value of offline sandboxes like Google’s Mirror Dimension.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261121_tldr_3.mp3" length="2684278" type="audio/mpeg"/>
+      <guid isPermaLink="false">577c55916f38fb55e90ca8f274a30945</guid>
+      <itunes:duration>168</itunes:duration>
     </item>
   </channel>
 </rss>
