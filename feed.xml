@@ -648,5 +648,36 @@ Today’s stories were curated via the TLDR AI newsletter. To get their free dai
       <guid isPermaLink="false">fa30d6fc1bad6940ea41576591632614</guid>
       <itunes:duration>160</itunes:duration>
     </item>
+      <item>
+      <title>python -i -c &#x27;import self&#x27;: Models Live-Patch Their Own Weights (No Backprop)</title>
+      <pubDate>Wed, 25 Nov 2026 06:34:58 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month</link>
+      <description>In this episode:
+• Architectural Depth Optimization: Z.ai’s GLM-5.4 Loop Transformer and Google’s DeepCrossAttention leverage layer weight-sharing and dynamic routing to deepen reasoning while curbing parameter bloat.
+• Formally Verified Algorithms &amp; PR Automation: DeepMind uses Gemini 4 in Lean to slash fusion quantum circuit costs twelvefold, while Anthropic deploys Claude Ship to automate verified pull request pipelines.
+• Self-Modifying Neural Parameters: The SELFWRITE framework allows models to inspect weights and activations in an interactive Python session to write dynamic low-rank updates without backpropagation.
+• Live Linux Runtime Hardening: OpenAI and Cisco launched Shirudo, an open-source runtime that injects dynamic security shields into live Linux environments to mitigate vulnerabilities without restarting services.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Architectural Depth Optimization:</strong> Z.ai’s GLM-5.4 Loop Transformer and Google’s DeepCrossAttention leverage layer weight-sharing and dynamic routing to deepen reasoning while curbing parameter bloat.</li>
+  <li><strong>Formally Verified Algorithms &amp; PR Automation:</strong> DeepMind uses Gemini 4 in Lean to slash fusion quantum circuit costs twelvefold, while Anthropic deploys Claude Ship to automate verified pull request pipelines.</li>
+  <li><strong>Self-Modifying Neural Parameters:</strong> The SELFWRITE framework allows models to inspect weights and activations in an interactive Python session to write dynamic low-rank updates without backpropagation.</li>
+  <li><strong>Live Linux Runtime Hardening:</strong> OpenAI and Cisco launched Shirudo, an open-source runtime that injects dynamic security shields into live Linux environments to mitigate vulnerabilities without restarting services.</li>
+</ul>
+<p>Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: <a href="https://refer.tldr.tech/9bb44454/2">https://refer.tldr.tech/9bb44454/2</a></p>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Architectural Depth Optimization: Z.ai’s GLM-5.4 Loop Transformer and Google’s DeepCrossAttention leverage layer weight-sharing and dynamic routing to deepen reasoning while curbing parameter bloat.
+• Formally Verified Algorithms &amp; PR Automation: DeepMind uses Gemini 4 in Lean to slash fusion quantum circuit costs twelvefold, while Anthropic deploys Claude Ship to automate verified pull request pipelines.
+• Self-Modifying Neural Parameters: The SELFWRITE framework allows models to inspect weights and activations in an interactive Python session to write dynamic low-rank updates without backpropagation.
+• Live Linux Runtime Hardening: OpenAI and Cisco launched Shirudo, an open-source runtime that injects dynamic security shields into live Linux environments to mitigate vulnerabilities without restarting services.
+
+Today’s stories were curated via the TLDR AI newsletter. To get their free daily tech briefs in your inbox, subscribe here: https://refer.tldr.tech/9bb44454/2</itunes:summary>
+      <itunes:author>Miles Dyson</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/cyberdyne-intern-of-the-month/brief_20261125_tldr_3.mp3" length="2943094" type="audio/mpeg"/>
+      <guid isPermaLink="false">a181888e2f64293a29b350afa86ffb0a</guid>
+      <itunes:duration>184</itunes:duration>
+    </item>
   </channel>
 </rss>
